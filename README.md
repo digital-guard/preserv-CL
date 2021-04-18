@@ -7,7 +7,7 @@ A Chile se le asignó: en el contexto ISO&nbsp;3166&#8209;2 el geocódigo **CL**
 El territorio nacional y sus subdivisiones representam **jurisdiciones**:
 
 * El país está dividido en **16 Regiones** que son administradas por un intendente designado por el presidente de la república.<br/>Los geocódigos de las regiones siguen la convención registrada por [ISO&nbsp;3166&#8209;2:CL](https://en.wikipedia.org/wiki/ISO_3166-2:CL). El Ministerio de Bienes Nacionales
- también estableció geocódigos numéricos de regiones (en contexto dos Códigos Únicos Territoriales - CUT). En OpenStreetMap se acuerda que la subdivisión por regiones corresponde al *nivel administrativo 2*.
+ también estableció geocódigos numéricos de regiones (en contexto dos Códigos Únicos Territoriales - CUT). En OpenStreetMap se acuerda que la subdivisión por regiones corresponde al *nivel administrativo 4*.
 
 * Cada región se subdivide en **56 provincias** que son administradas por un gobernador designado por el presidente de la república.<br/>Geocódigos numéricos CUT.
 
@@ -20,7 +20,7 @@ La jurisdicción que asigna nombres a las calles y el sistema de numeración urb
 En este *git*, solo se guardan los metadatos, es decir, descriptores de entidad, como nombres y códigos geográficos &mdash; mapas y otros datos, almacenados externamente porque son muy grandes. Los metadatos se organizaron de la siguiente manera, en la carpeta [`/data`](./data):
 
 * [`/data/in`](./data/in): datos originales de **entrada**, es decir, metadatos proporcionados para el sistema.
-   * [`cl-jurisdiction.csv`](./data/in/cl-jurisdiction.csv): jurisdicciones (en todos los niveles) y sus geocódigos.
+   * `cl-jurisdiction*.csv`:  jurisdicciones (en todos los niveles) y sus geocódigos. La primera subdivisión es [cl-jurisdictionLevel4.csv](./data/in/cl-jurisdictionLevel4.csv).
    * [`cl-donor.csv`](./data/in/cl-donor.csv): donantes de paquetes de datos. Metadatos de las instituciones que brindan datos oficiales. (pendente)
    * [`cl-donatedPack.csv`](./data/in/cl-donatedPack.csv): descriptores de los archivos donados. (pendente)
    * *paquetes* (carpetas `_packXX`): *hash*  y otros descriptores de archivos almacenados externamente, así como `makefile` y otros descriptores de proceso para descomprimir estos archivos y llevarlos a la base de datos (PostregSQL)... 
