@@ -1,4 +1,4 @@
-osm_id,parent_id,jurisd_base_id,jurisd_local_id,name,name_en,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
+osm_id,parent_id,jurisd_base_id,jurisd_local_id,name,name_en,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,phone_prefix,info
 305693,167454,152,11,Región de Aysén del General Carlos Ibáñez del Campo,Aysén Region,CL,AI,2181,ai,CL-AI,67,
 240932,167454,152,2,Región de Antofagasta,Antofagasta Region,CL,AN,2118,an,CL-AN,,
 238392,167454,152,15,Región de Arica y Parinacota,Arica y Parinacota Region,CL,AP,2109,ap,CL-AP,,
