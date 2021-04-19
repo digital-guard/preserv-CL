@@ -20,7 +20,7 @@ La jurisdicción que asigna nombres a las calles y el sistema de numeración urb
 En este *git*, solo se guardan los metadatos, es decir, descriptores de entidad, como nombres y códigos geográficos &mdash; mapas y otros datos, almacenados externamente porque son muy grandes. Los metadatos se organizaron de la siguiente manera, en la carpeta [`/data`](./data):
 
 * [`/data/in`](./data/in): datos originales de **entrada**, es decir, metadatos proporcionados para el sistema.
-   * `cl-jurisdiction*.csv`:  jurisdicciones (en todos los niveles) y sus geocódigos. La primera subdivisión es [cl-jurisdictionLevel4.csv](./data/in/cl-jurisdictionLevel4.csv).
+   * `jurisdictionLevel*.csv`:  jurisdicciones (en todos los niveles) y sus geocódigos. La primera subdivisión es [jurisdictionLevel4.csv](./data/in/jurisdictionLevel4.csv).
    * [`cl-donor.csv`](./data/in/cl-donor.csv): donantes de paquetes de datos. Metadatos de las instituciones que brindan datos oficiales. (pendente)
    * [`cl-donatedPack.csv`](./data/in/cl-donatedPack.csv): descriptores de los archivos donados. (pendente)
    * *paquetes* (carpetas `_packXX`): *hash*  y otros descriptores de archivos almacenados externamente, así como `makefile` y otros descriptores de proceso para descomprimir estos archivos y llevarlos a la base de datos (PostregSQL)... 
