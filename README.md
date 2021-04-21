@@ -9,9 +9,9 @@ El territorio nacional y sus subdivisiones representam **jurisdiciones**:
 * El país está dividido en **16 Regiones** que son administradas por un intendente designado por el presidente de la república.<br/>Los geocódigos de las regiones siguen la convención registrada por [ISO&nbsp;3166&#8209;2:CL](https://en.wikipedia.org/wiki/ISO_3166-2:CL). El Ministerio de Bienes Nacionales
  también estableció geocódigos numéricos de regiones (en contexto dos Códigos Únicos Territoriales - CUT). En OpenStreetMap se acuerda que la subdivisión por regiones corresponde al *nivel administrativo 4*.
 
-* Cada región se subdivide en **56 provincias** que son administradas por un gobernador designado por el presidente de la república.<br/>Geocódigos numéricos CUT.
+* Las regiónes se subdividem en **56 provincias** que son administradas por un gobernador designado por el presidente de la república.<br/>Geocódigos numéricos CUT.
 
-* Cada provincia se subdivide en **346 comunas** que están gobernadas por un alcalde y un concejo elegidos. <br/>Geocódigos numéricos CUT.
+* Las provincia se subdividem en **346 comunas** que están gobernadas por un alcalde y un concejo elegidos. <br/>Geocódigos numéricos CUT.
 
 La jurisdicción que asigna nombres a las calles y el sistema de numeración urbana es la comuna.
 
