@@ -12,6 +12,8 @@ El territorio nacional y sus subdivisiones representam **jurisdiciones**:
 
 * Las provincia se subdividem en **346 comunas** que están gobernadas por un alcalde y un concejo elegidos. <br/>Geocódigos numéricos CUT.
 
+Los catastros urbanos se encuentran en las comunas.
+
 La jurisdicción que asigna nombres a las calles y el sistema de numeración urbana es la comuna.
 
 ## Organización de este repositorio
