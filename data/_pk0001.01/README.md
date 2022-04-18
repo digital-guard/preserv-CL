@@ -1,4 +1,4 @@
-## Dump OpensStreetMap Chile
+## Dump OpenStreetMap Chile
 Arquivos utilizados como fonte de dados principal deste repositório, e preservados nos repositórios do [Instituto AddressForAll](https://github.com/AddressForAll/preserv-CL). 
 O download destes arquivos em geral recebem o rótulo de `chile-latest.osm.pbf`. 
 A seguir o histórico e metadados das versões utilizadas, organizadas por data (ano-mês-dia).
