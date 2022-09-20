@@ -1,0 +1,5 @@
+osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
+269826,152,2900,Arica,AP,,2203,arica,CL-AP-Arica,,
+406185,152,6500,Camarones,AP,,3729,camarones,CL-AP-Camarones,,
+406175,152,6300,"General Lagos",AP,,13065,general.lagos,CL-AP-GeneralLagos,,
+406176,152,6400,Putre,AP,,51605,putre,CL-AP-Putre,,

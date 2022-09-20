@@ -1,0 +1,11 @@
+osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
+1979223,152,33500,"Cabo de Hornos",MA,,3673,cabo.hornos,CL-MA-CaboHornos,,
+1980431,152,33800,"Laguna Blanca",MA,,14474,laguna.blanca,CL-MA-LagunaBlanca,,
+1980619,152,16700,Natales,MA,,1001339,natales,CL-MA-Natales,,
+1980517,152,34000,Porvenir,MA,,51120,porvenir,CL-MA-Porvenir,,
+1980521,152,16500,Primavera,MA,,51586,primavera,CL-MA-Primavera,,
+1979467,152,33600,"Punta Arenas",MA,,23660255,punta.arenas,CL-MA-PuntaArenas,,
+1980437,152,33900,"Río Verde",MA,,56131,rio.verde,CL-MA-RioVerde,,
+1980429,152,33700,"San Gregorio",MA,,187816,san.gregorio,CL-MA-SanGregorio,,
+1980553,152,16600,Timaukel,MA,,188177,timaukel,CL-MA-Timaukel,,
+1980641,152,16800,"Torres del Paine",MA,,200948,torres.paine,CL-MA-TorresPaine,,

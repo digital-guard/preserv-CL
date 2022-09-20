@@ -1,0 +1,8 @@
+osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
+239461,152,1700,"Alto Hospicio",TA,,2217,alto.hospicio,CL-TA-AltoHospicio,,
+239347,152,21000,Camiña,TA,,3731,camina,CL-TA-Camina,,
+239348,152,21100,Colchane,TA,,3839,colchane,CL-TA-Colchane,,
+239349,152,21200,Huara,TA,,13081,huara,CL-TA-Huara,,
+239456,152,21400,Iquique,TA,,14440,iquique,CL-TA-Iquique,,
+239424,152,21300,Pica,TA,,51102,pica,CL-TA-Pica,,
+1561943,152,24600,"Pozo Almonte",TA,,51585,pozo.almonte,CL-TA-PozoAlmonte,,

@@ -1,0 +1,10 @@
+osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
+1572124,152,25100,"Alto del Carmen",AT,,2215,alto.carmen,CL-AT-AltoCarmen,,
+295912,152,3800,Caldera,AT,,3708,caldera,CL-AT-Caldera,,
+295905,152,3700,Chañaral,AT,,3763,chanaral,CL-AT-Chanaral,,
+295922,152,3900,Copiapó,AT,,3868,copiapo,CL-AT-Copiapo,,
+295896,152,3600,"Diego de Almagro",AT,,13033,diego.almagro,CL-AT-DiegoAlmagro,,
+1572198,152,25300,Freirina,AT,,13051,freirina,CL-AT-Freirina,,
+1572197,152,25200,Huasco,AT,,14422,huasco,CL-AT-Huasco,,
+1572123,152,25000,"Tierra Amarilla",AT,,188142,tierra.amarilla,CL-AT-TierraAmarilla,,
+1572107,152,24900,Vallenar,AT,,200978,vallenar,CL-AT-Vallenar,,

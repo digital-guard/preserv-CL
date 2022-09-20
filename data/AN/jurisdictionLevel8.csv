@@ -1,0 +1,10 @@
+osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
+1561898,152,24400,Antofagasta,AN,,3612,antofagasta,CL-AN-Antofagasta,,
+1561886,152,24200,Calama,AN,,3685,calama,CL-AN-Calama,,
+1561887,152,24300,"María Elena",AN,,16923,maria.elena,CL-AN-MariaElena,,
+1564422,152,24800,Mejillones,AN,,16928,mejillones,CL-AN-Mejillones,,
+1561885,152,24100,Ollagüe,AN,,51055,ollague,CL-AN-Ollague,,
+1574063,152,25400,"San Pedro de Atacama",AN,,187893,san.pedro.atacama,CL-AN-SanPedroAtacama,,
+1561899,152,24500,"Sierra Gorda",AN,,188027,sierra.gorda,CL-AN-SierraGorda,,
+295883,152,3500,Taltal,AN,,188049,taltal,CL-AN-Taltal,,
+1562080,152,24700,Tocopilla,AN,,188192,tocopilla,CL-AN-Tocopilla,,

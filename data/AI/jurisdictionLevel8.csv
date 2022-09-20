@@ -1,0 +1,11 @@
+osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
+1982383,152,18100,Aysén,AI,,3651,aysen,CL-AI-Aysen,,
+1982287,152,17200,"Chile Chico",AI,,3770,chile.chico,CL-AI-ChileChico,,
+1982362,152,18000,Cisnes,AI,,3793,cisnes,CL-AI-Cisnes,,
+1981561,152,17100,Cochrane,AI,,3800,cochrane,CL-AI-Cochrane,,
+1982302,152,17400,Coyhaique,AI,,3810,coyhaique,CL-AI-Coyhaique,,
+1982324,152,17900,Guaitecas,AI,,13069,guaitecas,CL-AI-Guaitecas,,
+1982310,152,17800,"Lago Verde",AI,,14471,lago.verde,CL-AI-LagoVerde,,
+1981246,152,16900,O’Higgins,AI,,51051,o.higgins,CL-AI-OHiggins,,
+1982289,152,17300,"Río Ibáñez",AI,,56129,rio.ibanez,CL-AI-RioIbanez,,
+1981462,152,17000,Tortel,AI,,2390232,tortel,CL-AI-Tortel,,
