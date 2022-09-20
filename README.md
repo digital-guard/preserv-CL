@@ -1,7 +1,7 @@
 # preserv-CL
 [Preservación digital](https://en.wikipedia.org/wiki/Digital_preservation) de las principales fuentes de la **base de datos AddressForAll-Chile**, mantenida por el [Instituto AddressForAll](http://addressforall.org/).
 
-A Chile se le asignó: en el contexto [ISO&nbsp;3166](https://en.wikipedia.org/wiki/ISO_3166) el geocódigo [**CL**](https://en.wikipedia.org/wiki/ISO_3166-2:CL) y el número [**152**](https://en.wikipedia.org/wiki/ISO_3166-1_numeric); en [Wikidata](http://Wikidata.org) el identificador [Q298](http://wikidata.org/entity/Q298); en OpenStreetMap el identificador de [*relación* 167454](http://osm.org/relation/167454).
+A Chile se le asignó: en el contexto [ISO&nbsp;3166](https://en.wikipedia.org/wiki/ISO_3166) el geocódigo [**CL**](https://en.wikipedia.org/wiki/ISO_3166-2:CL) y el número [**152**](https://en.wikipedia.org/wiki/ISO_3166-1_numeric); en [Wikidata](https://wikidata.org) el identificador [Q298](http://wikidata.org/entity/Q298); en [OpenStreetMap](https://osm.org) el identificador de [*relación* 167454](http://osm.org/relation/167454).
 
 ## Organización territorial y sus geocódigos
 El territorio nacional y sus subdivisiones representam **jurisdiciones**:
