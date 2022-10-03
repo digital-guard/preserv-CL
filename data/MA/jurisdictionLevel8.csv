@@ -1,11 +1,11 @@
 osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
-1979223,152,33500,"Cabo de Hornos",MA,,3673,cabo.hornos,CL-MA-CaboHornos,,
-1980431,152,33800,"Laguna Blanca",MA,,14474,laguna.blanca,CL-MA-LagunaBlanca,,
-1980619,152,16700,Natales,MA,,1001339,natales,CL-MA-Natales,,
-1980517,152,34000,Porvenir,MA,,51120,porvenir,CL-MA-Porvenir,,
-1980521,152,16500,Primavera,MA,,51586,primavera,CL-MA-Primavera,,
-1979467,152,33600,"Punta Arenas",MA,,23660255,punta.arenas,CL-MA-PuntaArenas,,
-1980437,152,33900,"Río Verde",MA,,56131,rio.verde,CL-MA-RioVerde,,
-1980429,152,33700,"San Gregorio",MA,,187816,san.gregorio,CL-MA-SanGregorio,,
-1980553,152,16600,Timaukel,MA,,188177,timaukel,CL-MA-Timaukel,,
-1980641,152,16800,"Torres del Paine",MA,,200948,torres.paine,CL-MA-TorresPaine,,
+1979223,152,33500,"Cabo de Hornos",MA,,3673,cabo.hornos,CL-MA-CaboHornos,,"{""area_sr"": 4.57917, ""area_km2"": 32510, ""fat_deg_m"": 0.0000119, ""side_estim_km"": 180.3, ""side_estim_deg"": 2.1399, ""elongation_factor"": 2.85}"
+1980431,152,33800,"Laguna Blanca",MA,,14474,laguna.blanca,CL-MA-LagunaBlanca,,"{""area_sr"": 0.4799, ""area_km2"": 3640, ""fat_deg_m"": 0.0000115, ""side_estim_km"": 60.3, ""side_estim_deg"": 0.6928, ""elongation_factor"": 1.67}"
+1980619,152,16700,Natales,MA,,1001339,natales,CL-MA-Natales,,"{""area_sr"": 9.69193, ""area_km2"": 75997, ""fat_deg_m"": 0.0000113, ""side_estim_km"": 275.7, ""side_estim_deg"": 3.1132, ""elongation_factor"": 1.98}"
+1980517,152,34000,Porvenir,MA,,51120,porvenir,CL-MA-Porvenir,,"{""area_sr"": 1.34491, ""area_km2"": 9976, ""fat_deg_m"": 0.0000116, ""side_estim_km"": 99.9, ""side_estim_deg"": 1.1597, ""elongation_factor"": 1.75}"
+1980521,152,16500,Primavera,MA,,51586,primavera,CL-MA-Primavera,,"{""area_sr"": 0.83105, ""area_km2"": 6246, ""fat_deg_m"": 0.0000115, ""side_estim_km"": 79, ""side_estim_deg"": 0.9116, ""elongation_factor"": 2.04}"
+1979467,152,33600,"Punta Arenas",MA,,23660255,punta.arenas,CL-MA-PuntaArenas,,"{""area_sr"": 4.83592, ""area_km2"": 35584, ""fat_deg_m"": 0.0000117, ""side_estim_km"": 188.6, ""side_estim_deg"": 2.1991, ""elongation_factor"": 2.23}"
+1980437,152,33900,"Río Verde",MA,,56131,rio.verde,CL-MA-RioVerde,,"{""area_sr"": 1.77569, ""area_km2"": 13308, ""fat_deg_m"": 0.0000116, ""side_estim_km"": 115.4, ""side_estim_deg"": 1.3325, ""elongation_factor"": 1.99}"
+1980429,152,33700,"San Gregorio",MA,,187816,san.gregorio,CL-MA-SanGregorio,,"{""area_sr"": 1.1515, ""area_km2"": 8730, ""fat_deg_m"": 0.0000115, ""side_estim_km"": 93.4, ""side_estim_deg"": 1.0731, ""elongation_factor"": 2.2}"
+1980553,152,16600,Timaukel,MA,,188177,timaukel,CL-MA-Timaukel,,"{""area_sr"": 1.91407, ""area_km2"": 13906, ""fat_deg_m"": 0.0000117, ""side_estim_km"": 117.9, ""side_estim_deg"": 1.3835, ""elongation_factor"": 2.08}"
+1980641,152,16800,"Torres del Paine",MA,,200948,torres.paine,CL-MA-TorresPaine,,"{""area_sr"": 0.83498, ""area_km2"": 6513, ""fat_deg_m"": 0.0000113, ""side_estim_km"": 80.7, ""side_estim_deg"": 0.9138, ""elongation_factor"": 2.04}"

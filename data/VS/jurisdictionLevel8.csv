@@ -1,39 +1,39 @@
 osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
-296844,152,5800,Algarrobo,VS,,2206,algarrobo,CL-VS-Algarrobo,,
-113204,152,3300,Cabildo,VS,,3668,cabildo,CL-VS-Cabildo,,
-176529,152,19600,"Calle Larga",VS,,3728,calle.larga,CL-VS-CalleLarga,,
-296823,152,4900,Cartagena,VS,,3738,cartagena,CL-VS-Cartagena,,
-112129,152,1300,Casablanca,VS,,3742,casablanca,CL-VS-Casablanca,,
-113227,152,3400,Catemu,VS,,3747,catemu,CL-VS-Catemu,,
-110722,152,900,Concón,VS,,3860,concon,CL-VS-Concon,,
-296843,152,5700,"El Quisco",VS,,13040,el.quisco,CL-VS-ElQuisco,,
-296841,152,5300,"El Tabo",VS,,13041,el.tabo,CL-VS-ElTabo,,
-175918,152,18900,Hijuelas,VS,,13071,hijuelas,CL-VS-Hijuelas,,
-1773333,152,13800,"Juan Fernández",VS,,14454,juan.fernandez,CL-VS-JuanFernandez,,
-113226,152,2500,"La Calera",VS,,3713,la.calera,CL-VS-LaCalera,,
-113197,152,2400,"La Cruz",VS,,14457,la.cruz,CL-VS-LaCruz,,
-113201,152,3100,"La Ligua",VS,,14463,la.ligua,CL-VS-LaLigua,,
-113178,152,1600,Limache,VS,,14493,limache,CL-VS-Limache,,
-175943,152,19100,Llay-Llay,VS,,14498,llay.llay,CL-VS-LlayLlay,,
-166557,152,13100,"Los Andes",VS,,16903,los.andes,CL-VS-LosAndes,,
-113199,152,3000,Nogales,VS,,51049,nogales,CL-VS-Nogales,,
-113185,152,1800,Olmué,VS,,51058,olmue,CL-VS-Olmue,,
-175944,152,19200,Panquehue,VS,,51078,panquehue,CL-VS-Panquehue,,
-113203,152,3200,Papudo,VS,,51079,papudo,CL-VS-Papudo,,
-231953,152,20700,Petorca,VS,,51096,petorca,CL-VS-Petorca,,
-110710,152,600,Puchuncaví,VS,,51588,puchuncavi,CL-VS-Puchuncavi,,
-176538,152,19700,Putaendo,VS,,51604,putaendo,CL-VS-Putaendo,,
-113196,152,2200,Quillota,VS,,56108,quillota,CL-VS-Quillota,,
-110807,152,1100,Quilpué,VS,,56110,quilpue,CL-VS-Quilpue,,
-110719,152,800,Quintero,VS,,56114,quintero,CL-VS-Quintero,,
-1773341,152,13900,"Rapa Nui",VS,,721369,rapa.nui,CL-VS-RapaNui,,
-175949,152,19300,Rinconada,VS,,56123,rinconada,CL-VS-Rinconada,,
-296816,152,4800,"San Antonio",VS,,56135,san.antonio,CL-VS-SanAntonio,,
-231879,152,20300,"San Esteban",VS,,187784,san.esteban,CL-VS-SanEsteban,,
-176528,152,19500,"San Felipe",VS,,187802,san.felipe,CL-VS-SanFelipe,,
-231949,152,20500,"Santa María",VS,,187991,santa.maria,CL-VS-SantaMaria,,
-296814,152,4700,"Santo Domingo",VS,,188011,santo.domingo,CL-VS-SantoDomingo,,
-110808,152,1200,Valparaíso,VS,,33986,valparaiso,CL-VS-Valparaiso,,
-112799,152,1500,"Villa Alemana",VS,,174744,villa.alemana,CL-VS-VillaAlemana,,
-110804,152,1000,"Viña del Mar",VS,,184345,vina.mar,CL-VS-VinaMar,,
-110713,152,700,Zapallar,VS,,201064,zapallar,CL-VS-Zapallar,,
+296844,152,5800,Algarrobo,VS,,2206,algarrobo,CL-VS-Algarrobo,,"{""area_sr"": 0.01896, ""area_km2"": 196, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 14, ""side_estim_deg"": 0.1377, ""elongation_factor"": 1.85}"
+113204,152,3300,Cabildo,VS,,3668,cabildo,CL-VS-Cabildo,,"{""area_sr"": 0.14018, ""area_km2"": 1462, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 38.2, ""side_estim_deg"": 0.3744, ""elongation_factor"": 2.42}"
+176529,152,19600,"Calle Larga",VS,,3728,calle.larga,CL-VS-CalleLarga,,"{""area_sr"": 0.03064, ""area_km2"": 318, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 17.8, ""side_estim_deg"": 0.175, ""elongation_factor"": 1.93}"
+296823,152,4900,Cartagena,VS,,3738,cartagena,CL-VS-Cartagena,,"{""area_sr"": 0.02366, ""area_km2"": 244, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 15.6, ""side_estim_deg"": 0.1538, ""elongation_factor"": 2.16}"
+112129,152,1300,Casablanca,VS,,3742,casablanca,CL-VS-Casablanca,,"{""area_sr"": 0.09, ""area_km2"": 929, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 30.5, ""side_estim_deg"": 0.3}"
+113227,152,3400,Catemu,VS,,3747,catemu,CL-VS-Catemu,,"{""area_sr"": 0.03523, ""area_km2"": 366, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 19.1, ""side_estim_deg"": 0.1877, ""elongation_factor"": 1.5}"
+110722,152,900,Concón,VS,,3860,concon,CL-VS-Concon,,"{""area_sr"": 0.00727, ""area_km2"": 75, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 8.7, ""side_estim_deg"": 0.0852, ""elongation_factor"": 2.05}"
+296843,152,5700,"El Quisco",VS,,13040,el.quisco,CL-VS-ElQuisco,,"{""area_sr"": 0.00497, ""area_km2"": 51, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 7.2, ""side_estim_deg"": 0.0705, ""elongation_factor"": 2.17}"
+296841,152,5300,"El Tabo",VS,,13041,el.tabo,CL-VS-ElTabo,,"{""area_sr"": 0.00965, ""area_km2"": 99, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 10, ""side_estim_deg"": 0.0982, ""elongation_factor"": 2.3}"
+175918,152,18900,Hijuelas,VS,,13071,hijuelas,CL-VS-Hijuelas,,"{""area_sr"": 0.02585, ""area_km2"": 268, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 16.4, ""side_estim_deg"": 0.1608, ""elongation_factor"": 1.79}"
+1773333,152,13800,"Juan Fernández",VS,,14454,juan.fernandez,CL-VS-JuanFernandez,,"{""area_sr"": 0.01017, ""area_km2"": 105, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 10.2, ""side_estim_deg"": 0.1009, ""elongation_factor"": 11.17}"
+113226,152,2500,"La Calera",VS,,3713,la.calera,CL-VS-LaCalera,,"{""area_sr"": 0.00721, ""area_km2"": 75, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 8.7, ""side_estim_deg"": 0.0849, ""elongation_factor"": 2.44}"
+113197,152,2400,"La Cruz",VS,,14457,la.cruz,CL-VS-LaCruz,,"{""area_sr"": 0.00746, ""area_km2"": 77, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 8.8, ""side_estim_deg"": 0.0864, ""elongation_factor"": 1.96}"
+113201,152,3100,"La Ligua",VS,,14463,la.ligua,CL-VS-LaLigua,,"{""area_sr"": 0.11142, ""area_km2"": 1163, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 34.1, ""side_estim_deg"": 0.3338, ""elongation_factor"": 2.2}"
+113178,152,1600,Limache,VS,,14493,limache,CL-VS-Limache,,"{""area_sr"": 0.02853, ""area_km2"": 296, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 17.2, ""side_estim_deg"": 0.1689, ""elongation_factor"": 2.61}"
+175943,152,19100,Llay-Llay,VS,,14498,llay.llay,CL-VS-LlayLlay,,"{""area_sr"": 0.03351, ""area_km2"": 348, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 18.6, ""side_estim_deg"": 0.1831, ""elongation_factor"": 1.76}"
+166557,152,13100,"Los Andes",VS,,16903,los.andes,CL-VS-LosAndes,,"{""area_sr"": 0.11952, ""area_km2"": 1239, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 35.2, ""side_estim_deg"": 0.3457, ""elongation_factor"": 2.36}"
+113199,152,3000,Nogales,VS,,51049,nogales,CL-VS-Nogales,,"{""area_sr"": 0.03763, ""area_km2"": 391, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 19.8, ""side_estim_deg"": 0.194, ""elongation_factor"": 1.69}"
+113185,152,1800,Olmué,VS,,51058,olmue,CL-VS-Olmue,,"{""area_sr"": 0.02237, ""area_km2"": 232, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 15.2, ""side_estim_deg"": 0.1496, ""elongation_factor"": 1.37}"
+175944,152,19200,Panquehue,VS,,51078,panquehue,CL-VS-Panquehue,,"{""area_sr"": 0.01167, ""area_km2"": 121, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 11, ""side_estim_deg"": 0.108, ""elongation_factor"": 1.81}"
+113203,152,3200,Papudo,VS,,51079,papudo,CL-VS-Papudo,,"{""area_sr"": 0.01594, ""area_km2"": 166, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 12.9, ""side_estim_deg"": 0.1263, ""elongation_factor"": 1.88}"
+231953,152,20700,Petorca,VS,,51096,petorca,CL-VS-Petorca,,"{""area_sr"": 0.14474, ""area_km2"": 1514, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 38.9, ""side_estim_deg"": 0.3805, ""elongation_factor"": 2}"
+110710,152,600,Puchuncaví,VS,,51588,puchuncavi,CL-VS-Puchuncavi,,"{""area_sr"": 0.02884, ""area_km2"": 300, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 17.3, ""side_estim_deg"": 0.1698, ""elongation_factor"": 2.07}"
+176538,152,19700,Putaendo,VS,,51604,putaendo,CL-VS-Putaendo,,"{""area_sr"": 0.13878, ""area_km2"": 1447, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 38, ""side_estim_deg"": 0.3725, ""elongation_factor"": 2.06}"
+113196,152,2200,Quillota,VS,,56108,quillota,CL-VS-Quillota,,"{""area_sr"": 0.02899, ""area_km2"": 301, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 17.3, ""side_estim_deg"": 0.1703, ""elongation_factor"": 1.8}"
+110807,152,1100,Quilpué,VS,,56110,quilpue,CL-VS-Quilpue,,"{""area_sr"": 0.05168, ""area_km2"": 535, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 23.1, ""side_estim_deg"": 0.2273, ""elongation_factor"": 2.64}"
+110719,152,800,Quintero,VS,,56114,quintero,CL-VS-Quintero,,"{""area_sr"": 0.01404, ""area_km2"": 146, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 12.1, ""side_estim_deg"": 0.1185, ""elongation_factor"": 2.19}"
+1773341,152,13900,"Rapa Nui",VS,,721369,rapa.nui,CL-VS-RapaNui,,"{""area_sr"": 0.0149, ""area_km2"": 164, ""fat_deg_m"": 0.0000095, ""side_estim_km"": 12.8, ""side_estim_deg"": 0.122, ""elongation_factor"": 14.93}"
+175949,152,19300,Rinconada,VS,,56123,rinconada,CL-VS-Rinconada,,"{""area_sr"": 0.01187, ""area_km2"": 123, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 11.1, ""side_estim_deg"": 0.1089, ""elongation_factor"": 1.62}"
+296816,152,4800,"San Antonio",VS,,56135,san.antonio,CL-VS-SanAntonio,,"{""area_sr"": 0.03968, ""area_km2"": 408, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 20.2, ""side_estim_deg"": 0.1992, ""elongation_factor"": 2.13}"
+231879,152,20300,"San Esteban",VS,,187784,san.esteban,CL-VS-SanEsteban,,"{""area_sr"": 0.1317, ""area_km2"": 1370, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 37, ""side_estim_deg"": 0.3629, ""elongation_factor"": 1.55}"
+176528,152,19500,"San Felipe",VS,,187802,san.felipe,CL-VS-SanFelipe,,"{""area_sr"": 0.01753, ""area_km2"": 182, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 13.5, ""side_estim_deg"": 0.1324, ""elongation_factor"": 2.56}"
+231949,152,20500,"Santa María",VS,,187991,santa.maria,CL-VS-SantaMaria,,"{""area_sr"": 0.01598, ""area_km2"": 166, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 12.9, ""side_estim_deg"": 0.1264, ""elongation_factor"": 2.16}"
+296814,152,4700,"Santo Domingo",VS,,188011,santo.domingo,CL-VS-SantoDomingo,,"{""area_sr"": 0.05181, ""area_km2"": 532, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 23.1, ""side_estim_deg"": 0.2276, ""elongation_factor"": 1.72}"
+110808,152,1200,Valparaíso,VS,,33986,valparaiso,CL-VS-Valparaiso,,"{""area_sr"": 0.03102, ""area_km2"": 321, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 17.9, ""side_estim_deg"": 0.1761}"
+112799,152,1500,"Villa Alemana",VS,,174744,villa.alemana,CL-VS-VillaAlemana,,"{""area_sr"": 0.00929, ""area_km2"": 96, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 9.8, ""side_estim_deg"": 0.0964, ""elongation_factor"": 1.72}"
+110804,152,1000,"Viña del Mar",VS,,184345,vina.mar,CL-VS-VinaMar,,"{""area_sr"": 0.01162, ""area_km2"": 120, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 11, ""side_estim_deg"": 0.1078, ""elongation_factor"": 1.95}"
+110713,152,700,Zapallar,VS,,201064,zapallar,CL-VS-Zapallar,,"{""area_sr"": 0.02789, ""area_km2"": 290, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 17, ""side_estim_deg"": 0.167, ""elongation_factor"": 2.01}"

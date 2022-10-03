@@ -1,17 +1,17 @@
 osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
-305693,152,11,"Región Aysén del General Carlos Ibáñez del Campo",CL,AI,2181,region.aysen.general.carlos.ibanez.campo,CL-AI,67,
-198848,152,13,"Región Metropolitana de Santiago",CL,RM,2131,region.metropolitana.santiago,CL-RM,2,
-240932,152,2,"Región de Antofagasta",CL,AN,2118,region.antofagasta,CL-AN,,
-238392,152,15,"Región de Arica y Parinacota",CL,AP,2109,region.arica.y.parinacota,CL-AP,,
-271889,152,3,"Región de Atacama",CL,AT,2120,region.atacama,CL-AT,,
-231672,152,4,"Región de Coquimbo",CL,CO,2121,region.coquimbo,CL-CO,,
-274991,152,10,"Región de Los Lagos",CL,LL,2178,region.lagos,CL-LL,,
-274988,152,14,"Región de Los Ríos",CL,LR,2177,region.rios,CL-LR,,
-301542,152,12,"Región de Magallanes y de la Antártica Chilena",CL,MA,2189,region.magallanes.y.la.antartica.chilena,CL-MA,,
-238393,152,1,"Región de Tarapacá",CL,TA,2114,region.tarapaca,CL-TA,,
-198847,152,5,"Región de Valparaíso",CL,VS,219458,region.valparaiso,CL-VS,,
-296378,152,9,"Región de la Araucanía",CL,AR,2176,region.la.araucania,CL-AR,,
-7421025,152,16,"Región de Ñuble",CL,NB,24076693,region.nuble,CL-NB,,
-252891,152,8,"Región del Biobío",CL,BI,2170,region.biobio,CL-BI,,
-206487,152,6,"Región del Libertador General Bernardo O'Higgins",CL,LI,2133,region.libertador.general.bernardo.o.higgins,CL-LI,,
-239882,152,7,"Región del Maule",CL,ML,2166,region.maule,CL-ML,,
+305693,152,11,"Región Aysén del General Carlos Ibáñez del Campo",CL,AI,2181,region.aysen.general.carlos.ibanez.campo,CL-AI,67,"{""area_sr"": 17.15131, ""area_km2"": 146909, ""fat_deg_m"": 0.0000108, ""side_estim_km"": 383.3, ""side_estim_deg"": 4.1414, ""elongation_factor"": 1.93}"
+198848,152,13,"Región Metropolitana de Santiago",CL,RM,2131,region.metropolitana.santiago,CL-RM,2,"{""area_sr"": 1.49628, ""area_km2"": 15403, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 124.1, ""side_estim_deg"": 1.2232, ""elongation_factor"": 2.35}"
+240932,152,2,"Región de Antofagasta",CL,AN,2118,region.antofagasta,CL-AN,,"{""area_sr"": 11.15566, ""area_km2"": 126134, ""fat_deg_m"": 0.0000094, ""side_estim_km"": 355.2, ""side_estim_deg"": 3.34, ""elongation_factor"": 1.8}"
+238392,152,15,"Región de Arica y Parinacota",CL,AP,2109,region.arica.y.parinacota,CL-AP,,"{""area_sr"": 1.43508, ""area_km2"": 16775, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 129.5, ""side_estim_deg"": 1.1979}"
+271889,152,3,"Región de Atacama",CL,AT,2120,region.atacama,CL-AT,,"{""area_sr"": 6.905, ""area_km2"": 75665, ""fat_deg_m"": 0.0000096, ""side_estim_km"": 275.1, ""side_estim_deg"": 2.6277}"
+231672,152,4,"Región de Coquimbo",CL,CO,2121,region.coquimbo,CL-CO,,"{""area_sr"": 3.81827, ""area_km2"": 40583, ""fat_deg_m"": 0.0000097, ""side_estim_km"": 201.5, ""side_estim_deg"": 1.954, ""elongation_factor"": 2.4}"
+274991,152,10,"Región de Los Lagos",CL,LL,2178,region.lagos,CL-LL,,"{""area_sr"": 7.20772, ""area_km2"": 66083, ""fat_deg_m"": 0.0000104, ""side_estim_km"": 257.1, ""side_estim_deg"": 2.6847, ""elongation_factor"": 2.3}"
+274988,152,14,"Región de Los Ríos",CL,LR,2177,region.rios,CL-LR,,"{""area_sr"": 1.93564, ""area_km2"": 18352, ""fat_deg_m"": 0.0000103, ""side_estim_km"": 135.5, ""side_estim_deg"": 1.3913, ""elongation_factor"": 1.92}"
+301542,152,12,"Región de Magallanes y de la Antártica Chilena",CL,MA,2189,region.magallanes.y.la.antartica.chilena,CL-MA,,"{""area_sr"": 27.43914, ""area_km2"": 206410, ""fat_deg_m"": 0.0000115, ""side_estim_km"": 454.3, ""side_estim_deg"": 5.2382, ""elongation_factor"": 2.32}"
+238393,152,1,"Región de Tarapacá",CL,TA,2114,region.tarapaca,CL-TA,,"{""area_sr"": 3.66725, ""area_km2"": 42425, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 206, ""side_estim_deg"": 1.915, ""elongation_factor"": 1.56}"
+198847,152,5,"Región de Valparaíso",CL,VS,219458,region.valparaiso,CL-VS,,"{""area_sr"": 1.56224, ""area_km2"": 16238, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 127.4, ""side_estim_deg"": 1.2499}"
+296378,152,9,"Región de la Araucanía",CL,AR,2176,region.la.araucania,CL-AR,,"{""area_sr"": 3.28984, ""area_km2"": 31791, ""fat_deg_m"": 0.0000102, ""side_estim_km"": 178.3, ""side_estim_deg"": 1.8138, ""elongation_factor"": 2.02}"
+7421025,152,16,"Región de Ñuble",CL,NB,24076693,region.nuble,CL-NB,,"{""area_sr"": 1.31923, ""area_km2"": 13091, ""fat_deg_m"": 0.0000100, ""side_estim_km"": 114.4, ""side_estim_deg"": 1.1486, ""elongation_factor"": 2.47}"
+252891,152,8,"Región del Biobío",CL,BI,2170,region.biobio,CL-BI,,"{""area_sr"": 2.44357, ""area_km2"": 23981, ""fat_deg_m"": 0.0000101, ""side_estim_km"": 154.9, ""side_estim_deg"": 1.5632}"
+206487,152,6,"Región del Libertador General Bernardo O'Higgins",CL,LI,2133,region.libertador.general.bernardo.o.higgins,CL-LI,,"{""area_sr"": 1.60247, ""area_km2"": 16338, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 127.8, ""side_estim_deg"": 1.2659}"
+239882,152,7,"Región del Maule",CL,ML,2166,region.maule,CL-ML,,"{""area_sr"": 3.01526, ""area_km2"": 30307, ""fat_deg_m"": 0.0000100, ""side_estim_km"": 174.1, ""side_estim_deg"": 1.7365, ""elongation_factor"": 1.95}"

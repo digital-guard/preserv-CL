@@ -1,13 +1,13 @@
 osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
-1791148,152,14800,"Comuna de La Unión",LR,,23660622,comuna.la.union,CL-LR-ComunaLaUnion,,
-1785692,152,14300,Corral,LR,,3875,corral,CL-LR-Corral,,
-1785847,152,14500,Futrono,LR,,13062,futrono,CL-LR-Futrono,,
-1791290,152,14900,"Lago Ranco",LR,,14470,lago.ranco,CL-LR-LagoRanco,,
-1771698,152,13700,Lanco,LR,,14478,lanco,CL-LR-Lanco,,
-1785707,152,14400,"Los Lagos",LR,,16905,los.lagos,CL-LR-LosLagos,,
-1785656,152,14000,Mariquina,LR,,16922,mariquina,CL-LR-Mariquina,,
-1785668,152,14100,Máfil,LR,,51038,mafil,CL-LR-Mafil,,
-1785852,152,14600,Paillaco,LR,,51069,paillaco,CL-LR-Paillaco,,
-1769309,152,12800,Panguipulli,LR,,51076,panguipulli,CL-LR-Panguipulli,,
-1791147,152,14700,"Río Bueno",LR,,56126,rio.bueno,CL-LR-RioBueno,,
-1785691,152,14200,Valdivia,LR,,160687,valdivia,CL-LR-Valdivia,,
+1791148,152,14800,"Comuna de La Unión",LR,,23660622,comuna.la.union,CL-LR-ComunaLaUnion,,"{""area_sr"": 0.22517, ""area_km2"": 2129, ""fat_deg_m"": 0.0000103, ""side_estim_km"": 46.1, ""side_estim_deg"": 0.4745, ""elongation_factor"": 3.02}"
+1785692,152,14300,Corral,LR,,3875,corral,CL-LR-Corral,,"{""area_sr"": 0.07935, ""area_km2"": 753, ""fat_deg_m"": 0.0000103, ""side_estim_km"": 27.4, ""side_estim_deg"": 0.2817, ""elongation_factor"": 2.35}"
+1785847,152,14500,Futrono,LR,,13062,futrono,CL-LR-Futrono,,"{""area_sr"": 0.22057, ""area_km2"": 2088, ""fat_deg_m"": 0.0000103, ""side_estim_km"": 45.7, ""side_estim_deg"": 0.4697, ""elongation_factor"": 2.55}"
+1791290,152,14900,"Lago Ranco",LR,,14470,lago.ranco,CL-LR-LagoRanco,,"{""area_sr"": 0.18705, ""area_km2"": 1764, ""fat_deg_m"": 0.0000103, ""side_estim_km"": 42, ""side_estim_deg"": 0.4325, ""elongation_factor"": 2.59}"
+1771698,152,13700,Lanco,LR,,14478,lanco,CL-LR-Lanco,,"{""area_sr"": 0.05593, ""area_km2"": 534, ""fat_deg_m"": 0.0000102, ""side_estim_km"": 23.1, ""side_estim_deg"": 0.2365, ""elongation_factor"": 2.5}"
+1785707,152,14400,"Los Lagos",LR,,16905,los.lagos,CL-LR-LosLagos,,"{""area_sr"": 0.18845, ""area_km2"": 1790, ""fat_deg_m"": 0.0000103, ""side_estim_km"": 42.3, ""side_estim_deg"": 0.4341, ""elongation_factor"": 2.7}"
+1785656,152,14000,Mariquina,LR,,16922,mariquina,CL-LR-Mariquina,,"{""area_sr"": 0.13815, ""area_km2"": 1319, ""fat_deg_m"": 0.0000102, ""side_estim_km"": 36.3, ""side_estim_deg"": 0.3717, ""elongation_factor"": 2.66}"
+1785668,152,14100,Máfil,LR,,51038,mafil,CL-LR-Mafil,,"{""area_sr"": 0.06083, ""area_km2"": 579, ""fat_deg_m"": 0.0000102, ""side_estim_km"": 24.1, ""side_estim_deg"": 0.2466, ""elongation_factor"": 2.66}"
+1785852,152,14600,Paillaco,LR,,51069,paillaco,CL-LR-Paillaco,,"{""area_sr"": 0.09512, ""area_km2"": 901, ""fat_deg_m"": 0.0000103, ""side_estim_km"": 30, ""side_estim_deg"": 0.3084, ""elongation_factor"": 2.5}"
+1769309,152,12800,Panguipulli,LR,,51076,panguipulli,CL-LR-Panguipulli,,"{""area_sr"": 0.34596, ""area_km2"": 3294, ""fat_deg_m"": 0.0000102, ""side_estim_km"": 57.4, ""side_estim_deg"": 0.5882, ""elongation_factor"": 2.2}"
+1791147,152,14700,"Río Bueno",LR,,56126,rio.bueno,CL-LR-RioBueno,,"{""area_sr"": 0.23158, ""area_km2"": 2180, ""fat_deg_m"": 0.0000103, ""side_estim_km"": 46.7, ""side_estim_deg"": 0.4812, ""elongation_factor"": 2.8}"
+1785691,152,14200,Valdivia,LR,,160687,valdivia,CL-LR-Valdivia,,"{""area_sr"": 0.1075, ""area_km2"": 1022, ""fat_deg_m"": 0.0000103, ""side_estim_km"": 32, ""side_estim_deg"": 0.3279, ""elongation_factor"": 2.08}"

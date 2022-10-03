@@ -1,34 +1,34 @@
 osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
-1659038,152,31100,"Alto Biobío",BI,,2213,alto.biobio,CL-BI-AltoBiobio,,
-1652379,152,29500,Antuco,BI,,3619,antuco,CL-BI-Antuco,,
-1654884,152,29700,Arauco,BI,,3632,arauco,CL-BI-Arauco,,
-1652181,152,29400,Cabrero,BI,,3678,cabrero,CL-BI-Cabrero,,
-1656043,152,30200,Cañete,BI,,3753,canete,CL-BI-Canete,,
-1622086,152,27600,Chiguayante,BI,,3765,chiguayante,CL-BI-Chiguayante,,
-1620105,152,27400,Concepción,BI,,1880,concepcion,CL-BI-Concepcion,,
-1656148,152,30400,Contulmo,BI,,3864,contulmo,CL-BI-Contulmo,,
-1622313,152,28100,Coronel,BI,,3873,coronel,CL-BI-Coronel,,
-1655930,152,30000,Curanilahue,BI,,3892,curanilahue,CL-BI-Curanilahue,,
-1622109,152,27700,Florida,BI,,13048,florida,CL-BI-Florida,,
-1614641,152,27200,Hualpén,BI,,13077,hualpen,CL-BI-Hualpen,,
-1620107,152,27500,Hualqui,BI,,13079,hualqui,CL-BI-Hualqui,,
-1632644,152,29100,Laja,BI,,14475,laja,CL-BI-Laja,,
-1654913,152,29900,Lebu,BI,,14488,lebu,CL-BI-Lebu,,
-1656036,152,30100,"Los Álamos",BI,,16909,los.alamos,CL-BI-LosAlamos,,
-1658515,152,30500,"Los Ángeles",BI,,16910,los.angeles,CL-BI-LosAngeles,,
-1654885,152,29800,Lota,BI,,16911,lota,CL-BI-Lota,,
-1658516,152,30600,Mulchén,BI,,51036,mulchen,CL-BI-Mulchen,,
-1632643,152,29000,Nacimiento,BI,,51039,nacimiento,CL-BI-Nacimiento,,
-1658517,152,30700,Negrete,BI,,51046,negrete,CL-BI-Negrete,,
-1614637,152,27000,Penco,BI,,51093,penco,CL-BI-Penco,,
-1659044,152,31200,Quilaco,BI,,51610,quilaco,CL-BI-Quilaco,,
-1659035,152,30900,Quilleco,BI,,56107,quilleco,CL-BI-Quilleco,,
-1622326,152,28200,"San Pedro de la Paz",BI,,19344,san.pedro.la.paz,CL-BI-SanPedroLaPaz,,
-1622253,152,27900,"San Rosendo",BI,,22137,san.rosendo,CL-BI-SanRosendo,,
-1659037,152,31000,"Santa Bárbara",BI,,187961,santa.barbara,CL-BI-SantaBarbara,,
-1622274,152,28000,"Santa Juana",BI,,187974,santa.juana,CL-BI-SantaJuana,,
-1614638,152,27100,Talcahuano,BI,,41997,talcahuano,CL-BI-Talcahuano,,
-1656147,152,30300,Tirúa,BI,,188183,tirua,CL-BI-Tirua,,
-1558890,152,13400,Tomé,BI,,200934,tome,CL-BI-Tome,,
-1659003,152,30800,Tucapel,BI,,200965,tucapel,CL-BI-Tucapel,,
-1622204,152,27800,Yumbel,BI,,201050,yumbel,CL-BI-Yumbel,,
+1659038,152,31100,"Alto Biobío",BI,,2213,alto.biobio,CL-BI-AltoBiobio,,"{""area_sr"": 0.21734, ""area_km2"": 2123, ""fat_deg_m"": 0.0000101, ""side_estim_km"": 46.1, ""side_estim_deg"": 0.4662, ""elongation_factor"": 1.89}"
+1652379,152,29500,Antuco,BI,,3619,antuco,CL-BI-Antuco,,"{""area_sr"": 0.19876, ""area_km2"": 1955, ""fat_deg_m"": 0.0000101, ""side_estim_km"": 44.2, ""side_estim_deg"": 0.4458, ""elongation_factor"": 2.63}"
+1654884,152,29700,Arauco,BI,,3632,arauco,CL-BI-Arauco,,"{""area_sr"": 0.09758, ""area_km2"": 960, ""fat_deg_m"": 0.0000101, ""side_estim_km"": 31, ""side_estim_deg"": 0.3124, ""elongation_factor"": 2.59}"
+1652181,152,29400,Cabrero,BI,,3678,cabrero,CL-BI-Cabrero,,"{""area_sr"": 0.06651, ""area_km2"": 656, ""fat_deg_m"": 0.0000101, ""side_estim_km"": 25.6, ""side_estim_deg"": 0.2579, ""elongation_factor"": 1.87}"
+1656043,152,30200,Cañete,BI,,3753,canete,CL-BI-Canete,,"{""area_sr"": 0.11145, ""area_km2"": 1088, ""fat_deg_m"": 0.0000101, ""side_estim_km"": 33, ""side_estim_deg"": 0.3338, ""elongation_factor"": 2.42}"
+1622086,152,27600,Chiguayante,BI,,3765,chiguayante,CL-BI-Chiguayante,,"{""area_sr"": 0.00744, ""area_km2"": 74, ""fat_deg_m"": 0.0000101, ""side_estim_km"": 8.6, ""side_estim_deg"": 0.0863, ""elongation_factor"": 1.98}"
+1620105,152,27400,Concepción,BI,,1880,concepcion,CL-BI-Concepcion,,"{""area_sr"": 0.02231, ""area_km2"": 221, ""fat_deg_m"": 0.0000101, ""side_estim_km"": 14.9, ""side_estim_deg"": 0.1494, ""elongation_factor"": 2.03}"
+1656148,152,30400,Contulmo,BI,,3864,contulmo,CL-BI-Contulmo,,"{""area_sr"": 0.06534, ""area_km2"": 637, ""fat_deg_m"": 0.0000101, ""side_estim_km"": 25.2, ""side_estim_deg"": 0.2556, ""elongation_factor"": 2.75}"
+1622313,152,28100,Coronel,BI,,3873,coronel,CL-BI-Coronel,,"{""area_sr"": 0.02828, ""area_km2"": 279, ""fat_deg_m"": 0.0000101, ""side_estim_km"": 16.7, ""side_estim_deg"": 0.1682, ""elongation_factor"": 3.36}"
+1655930,152,30000,Curanilahue,BI,,3892,curanilahue,CL-BI-Curanilahue,,"{""area_sr"": 0.1017, ""area_km2"": 998, ""fat_deg_m"": 0.0000101, ""side_estim_km"": 31.6, ""side_estim_deg"": 0.3189, ""elongation_factor"": 2.2}"
+1622109,152,27700,Florida,BI,,13048,florida,CL-BI-Florida,,"{""area_sr"": 0.06119, ""area_km2"": 606, ""fat_deg_m"": 0.0000100, ""side_estim_km"": 24.6, ""side_estim_deg"": 0.2474, ""elongation_factor"": 1.93}"
+1614641,152,27200,Hualpén,BI,,13077,hualpen,CL-BI-Hualpen,,"{""area_sr"": 0.0054, ""area_km2"": 53, ""fat_deg_m"": 0.0000100, ""side_estim_km"": 7.3, ""side_estim_deg"": 0.0735}"
+1620107,152,27500,Hualqui,BI,,13079,hualqui,CL-BI-Hualqui,,"{""area_sr"": 0.05432, ""area_km2"": 536, ""fat_deg_m"": 0.0000101, ""side_estim_km"": 23.2, ""side_estim_deg"": 0.2331, ""elongation_factor"": 1.95}"
+1632644,152,29100,Laja,BI,,14475,laja,CL-BI-Laja,,"{""area_sr"": 0.03491, ""area_km2"": 343, ""fat_deg_m"": 0.0000101, ""side_estim_km"": 18.5, ""side_estim_deg"": 0.1869, ""elongation_factor"": 1.16}"
+1654913,152,29900,Lebu,BI,,14488,lebu,CL-BI-Lebu,,"{""area_sr"": 0.05751, ""area_km2"": 563, ""fat_deg_m"": 0.0000101, ""side_estim_km"": 23.7, ""side_estim_deg"": 0.2398, ""elongation_factor"": 3.96}"
+1656036,152,30100,"Los Álamos",BI,,16909,los.alamos,CL-BI-LosAlamos,,"{""area_sr"": 0.06133, ""area_km2"": 601, ""fat_deg_m"": 0.0000101, ""side_estim_km"": 24.5, ""side_estim_deg"": 0.2477, ""elongation_factor"": 2.78}"
+1658515,152,30500,"Los Ángeles",BI,,16910,los.angeles,CL-BI-LosAngeles,,"{""area_sr"": 0.17806, ""area_km2"": 1750, ""fat_deg_m"": 0.0000101, ""side_estim_km"": 41.8, ""side_estim_deg"": 0.422, ""elongation_factor"": 2.11}"
+1654885,152,29800,Lota,BI,,16911,lota,CL-BI-Lota,,"{""area_sr"": 0.0116, ""area_km2"": 114, ""fat_deg_m"": 0.0000101, ""side_estim_km"": 10.7, ""side_estim_deg"": 0.1077, ""elongation_factor"": 2.01}"
+1658516,152,30600,Mulchén,BI,,51036,mulchen,CL-BI-Mulchen,,"{""area_sr"": 0.19642, ""area_km2"": 1919, ""fat_deg_m"": 0.0000101, ""side_estim_km"": 43.8, ""side_estim_deg"": 0.4432, ""elongation_factor"": 2.67}"
+1632643,152,29000,Nacimiento,BI,,51039,nacimiento,CL-BI-Nacimiento,,"{""area_sr"": 0.0927, ""area_km2"": 910, ""fat_deg_m"": 0.0000101, ""side_estim_km"": 30.2, ""side_estim_deg"": 0.3045, ""elongation_factor"": 2.15}"
+1658517,152,30700,Negrete,BI,,51046,negrete,CL-BI-Negrete,,"{""area_sr"": 0.01589, ""area_km2"": 156, ""fat_deg_m"": 0.0000101, ""side_estim_km"": 12.5, ""side_estim_deg"": 0.1261, ""elongation_factor"": 2.07}"
+1614637,152,27000,Penco,BI,,51093,penco,CL-BI-Penco,,"{""area_sr"": 0.01086, ""area_km2"": 108, ""fat_deg_m"": 0.0000100, ""side_estim_km"": 10.4, ""side_estim_deg"": 0.1042, ""elongation_factor"": 2.47}"
+1659044,152,31200,Quilaco,BI,,51610,quilaco,CL-BI-Quilaco,,"{""area_sr"": 0.11527, ""area_km2"": 1124, ""fat_deg_m"": 0.0000101, ""side_estim_km"": 33.5, ""side_estim_deg"": 0.3395, ""elongation_factor"": 3.32}"
+1659035,152,30900,Quilleco,BI,,56107,quilleco,CL-BI-Quilleco,,"{""area_sr"": 0.11396, ""area_km2"": 1119, ""fat_deg_m"": 0.0000101, ""side_estim_km"": 33.5, ""side_estim_deg"": 0.3376, ""elongation_factor"": 2.7}"
+1622326,152,28200,"San Pedro de la Paz",BI,,19344,san.pedro.la.paz,CL-BI-SanPedroLaPaz,,"{""area_sr"": 0.01121, ""area_km2"": 111, ""fat_deg_m"": 0.0000101, ""side_estim_km"": 10.5, ""side_estim_deg"": 0.1059, ""elongation_factor"": 1.59}"
+1622253,152,27900,"San Rosendo",BI,,22137,san.rosendo,CL-BI-SanRosendo,,"{""area_sr"": 0.00938, ""area_km2"": 92, ""fat_deg_m"": 0.0000101, ""side_estim_km"": 9.6, ""side_estim_deg"": 0.0968, ""elongation_factor"": 2.2}"
+1659037,152,31000,"Santa Bárbara",BI,,187961,santa.barbara,CL-BI-SantaBarbara,,"{""area_sr"": 0.12749, ""area_km2"": 1249, ""fat_deg_m"": 0.0000101, ""side_estim_km"": 35.3, ""side_estim_deg"": 0.3571, ""elongation_factor"": 2.52}"
+1622274,152,28000,"Santa Juana",BI,,187974,santa.juana,CL-BI-SantaJuana,,"{""area_sr"": 0.07919, ""area_km2"": 779, ""fat_deg_m"": 0.0000101, ""side_estim_km"": 27.9, ""side_estim_deg"": 0.2814, ""elongation_factor"": 2.13}"
+1614638,152,27100,Talcahuano,BI,,41997,talcahuano,CL-BI-Talcahuano,,"{""area_sr"": 0.00929, ""area_km2"": 92, ""fat_deg_m"": 0.0000100, ""side_estim_km"": 9.6, ""side_estim_deg"": 0.0964}"
+1656147,152,30300,Tirúa,BI,,188183,tirua,CL-BI-Tirua,,"{""area_sr"": 0.06462, ""area_km2"": 628, ""fat_deg_m"": 0.0000101, ""side_estim_km"": 25.1, ""side_estim_deg"": 0.2542, ""elongation_factor"": 2.15}"
+1558890,152,13400,Tomé,BI,,200934,tome,CL-BI-Tome,,"{""area_sr"": 0.04983, ""area_km2"": 495, ""fat_deg_m"": 0.0000100, ""side_estim_km"": 22.2, ""side_estim_deg"": 0.2232, ""elongation_factor"": 2.24}"
+1659003,152,30800,Tucapel,BI,,200965,tucapel,CL-BI-Tucapel,,"{""area_sr"": 0.09263, ""area_km2"": 912, ""fat_deg_m"": 0.0000101, ""side_estim_km"": 30.2, ""side_estim_deg"": 0.3044, ""elongation_factor"": 2.03}"
+1622204,152,27800,Yumbel,BI,,201050,yumbel,CL-BI-Yumbel,,"{""area_sr"": 0.07379, ""area_km2"": 728, ""fat_deg_m"": 0.0000101, ""side_estim_km"": 27, ""side_estim_deg"": 0.2716, ""elongation_factor"": 2.18}"

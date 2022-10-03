@@ -1,31 +1,31 @@
 osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
-3078203,152,34300,Ancud,LL,,3597,ancud,CL-LL-Ancud,,
-1798800,152,32900,Calbuco,LL,,3691,calbuco,CL-LL-Calbuco,,
-3076091,152,28500,Castro,LL,,23660569,castro,CL-LL-Castro,,
-1820338,152,33400,Chaitén,LL,,3759,chaiten,CL-LL-Chaiten,,
-3076208,152,28600,Chonchi,LL,,3788,chonchi,CL-LL-Chonchi,,
-1798828,152,33100,Cochamó,LL,,3797,cochamo,CL-LL-Cochamo,,
-3078354,152,34500,"Curaco de Vélez",LL,,3888,curaco.velez,CL-LL-CuracoVelez,,
-3077688,152,34200,Dalcahue,LL,,13031,dalcahue,CL-LL-Dalcahue,,
-1796332,152,15800,Fresia,LL,,13052,fresia,CL-LL-Fresia,,
-1796410,152,15900,Frutillar,LL,,13058,frutillar,CL-LL-Frutillar,,
-3067460,152,28400,Futaleufú,LL,,13060,futaleufu,CL-LL-Futaleufu,,
-1820318,152,33300,Hualaihué,LL,,13072,hualaihue,CL-LL-Hualaihue,,
-1798791,152,16100,Llanquihue,LL,,14500,llanquihue,CL-LL-Llanquihue,,
-1798792,152,16200,"Los Muermos",LL,,16906,los.muermos,CL-LL-LosMuermos,,
-1798790,152,16000,Maullín,LL,,16927,maullin,CL-LL-Maullin,,
-1794711,152,15200,Osorno,LL,,51059,osorno,CL-LL-Osorno,,
-3067455,152,28300,Palena,LL,,51073,palena,CL-LL-Palena,,
-1798806,152,33000,"Puerto Montt",LL,,36214,puerto.montt,CL-LL-PuertoMontt,,
-1795768,152,15400,"Puerto Octay",LL,,51595,puerto.octay,CL-LL-PuertoOctay,,
-1798888,152,33200,"Puerto Varas",LL,,51596,puerto.varas,CL-LL-PuertoVaras,,
-3078387,152,18300,Puqueldón,LL,,2118779,puqueldon,CL-LL-Puqueldon,,
-1795811,152,15700,Purranque,LL,,51601,purranque,CL-LL-Purranque,,
-1795049,152,15300,Puyehue,LL,,15084,puyehue,CL-LL-Puyehue,,
-3076728,152,34100,Queilén,LL,,51607,queilen,CL-LL-Queilen,,
-3076644,152,28700,Quellón,LL,,51608,quellon,CL-LL-Quellon,,
-3078348,152,34400,Quemchi,LL,,51609,quemchi,CL-LL-Quemchi,,
-3078364,152,32200,Quinchao,LL,,56111,quinchao,CL-LL-Quinchao,,
-1795795,152,15500,"Río Negro",LL,,56130,rio.negro,CL-LL-RioNegro,,
-1791817,152,15100,"San Juan de la Costa",LL,,187856,san.juan.la.costa,CL-LL-SanJuanLaCosta,,
-1791802,152,15000,"San Pablo",LL,,187873,san.pablo,CL-LL-SanPablo,,
+3078203,152,34300,Ancud,LL,,3597,ancud,CL-LL-Ancud,,"{""area_sr"": 0.23289, ""area_km2"": 2144, ""fat_deg_m"": 0.0000104, ""side_estim_km"": 46.3, ""side_estim_deg"": 0.4826, ""elongation_factor"": 2.36}"
+1798800,152,32900,Calbuco,LL,,3691,calbuco,CL-LL-Calbuco,,"{""area_sr"": 0.16107, ""area_km2"": 1487, ""fat_deg_m"": 0.0000104, ""side_estim_km"": 38.6, ""side_estim_deg"": 0.4013, ""elongation_factor"": 1.95}"
+3076091,152,28500,Castro,LL,,23660569,castro,CL-LL-Castro,,"{""area_sr"": 0.0759, ""area_km2"": 693, ""fat_deg_m"": 0.0000105, ""side_estim_km"": 26.3, ""side_estim_deg"": 0.2755, ""elongation_factor"": 3.5}"
+1820338,152,33400,Chaitén,LL,,3759,chaiten,CL-LL-Chaiten,,"{""area_sr"": 1.43517, ""area_km2"": 12990, ""fat_deg_m"": 0.0000105, ""side_estim_km"": 114, ""side_estim_deg"": 1.198, ""elongation_factor"": 1.76}"
+3076208,152,28600,Chonchi,LL,,3788,chonchi,CL-LL-Chonchi,,"{""area_sr"": 0.15735, ""area_km2"": 1433, ""fat_deg_m"": 0.0000105, ""side_estim_km"": 37.9, ""side_estim_deg"": 0.3967, ""elongation_factor"": 1.82}"
+1798828,152,33100,Cochamó,LL,,3797,cochamo,CL-LL-Cochamo,,"{""area_sr"": 0.44124, ""area_km2"": 4076, ""fat_deg_m"": 0.0000104, ""side_estim_km"": 63.8, ""side_estim_deg"": 0.6643, ""elongation_factor"": 2.36}"
+3078354,152,34500,"Curaco de Vélez",LL,,3888,curaco.velez,CL-LL-CuracoVelez,,"{""area_sr"": 0.01656, ""area_km2"": 151, ""fat_deg_m"": 0.0000105, ""side_estim_km"": 12.3, ""side_estim_deg"": 0.1287, ""elongation_factor"": 1.3}"
+3077688,152,34200,Dalcahue,LL,,13031,dalcahue,CL-LL-Dalcahue,,"{""area_sr"": 0.14305, ""area_km2"": 1310, ""fat_deg_m"": 0.0000104, ""side_estim_km"": 36.2, ""side_estim_deg"": 0.3782, ""elongation_factor"": 2.89}"
+1796332,152,15800,Fresia,LL,,13052,fresia,CL-LL-Fresia,,"{""area_sr"": 0.13681, ""area_km2"": 1275, ""fat_deg_m"": 0.0000104, ""side_estim_km"": 35.7, ""side_estim_deg"": 0.3699, ""elongation_factor"": 2.26}"
+1796410,152,15900,Frutillar,LL,,13058,frutillar,CL-LL-Frutillar,,"{""area_sr"": 0.09503, ""area_km2"": 887, ""fat_deg_m"": 0.0000104, ""side_estim_km"": 29.8, ""side_estim_deg"": 0.3083, ""elongation_factor"": 1.98}"
+3067460,152,28400,Futaleufú,LL,,13060,futaleufu,CL-LL-Futaleufu,,"{""area_sr"": 0.1368, ""area_km2"": 1236, ""fat_deg_m"": 0.0000105, ""side_estim_km"": 35.2, ""side_estim_deg"": 0.3699, ""elongation_factor"": 2.22}"
+1820318,152,33300,Hualaihué,LL,,13072,hualaihue,CL-LL-Hualaihue,,"{""area_sr"": 0.4384, ""area_km2"": 4026, ""fat_deg_m"": 0.0000104, ""side_estim_km"": 63.5, ""side_estim_deg"": 0.6621, ""elongation_factor"": 2.39}"
+1798791,152,16100,Llanquihue,LL,,14500,llanquihue,CL-LL-Llanquihue,,"{""area_sr"": 0.04562, ""area_km2"": 425, ""fat_deg_m"": 0.0000104, ""side_estim_km"": 20.6, ""side_estim_deg"": 0.2136, ""elongation_factor"": 2.14}"
+1798792,152,16200,"Los Muermos",LL,,16906,los.muermos,CL-LL-LosMuermos,,"{""area_sr"": 0.13285, ""area_km2"": 1234, ""fat_deg_m"": 0.0000104, ""side_estim_km"": 35.1, ""side_estim_deg"": 0.3645, ""elongation_factor"": 2.26}"
+1798790,152,16000,Maullín,LL,,16927,maullin,CL-LL-Maullin,,"{""area_sr"": 0.15618, ""area_km2"": 1445, ""fat_deg_m"": 0.0000104, ""side_estim_km"": 38, ""side_estim_deg"": 0.3952, ""elongation_factor"": 1.91}"
+1794711,152,15200,Osorno,LL,,51059,osorno,CL-LL-Osorno,,"{""area_sr"": 0.1015, ""area_km2"": 954, ""fat_deg_m"": 0.0000103, ""side_estim_km"": 30.9, ""side_estim_deg"": 0.3186, ""elongation_factor"": 3}"
+3067455,152,28300,Palena,LL,,51073,palena,CL-LL-Palena,,"{""area_sr"": 0.29665, ""area_km2"": 2658, ""fat_deg_m"": 0.0000106, ""side_estim_km"": 51.6, ""side_estim_deg"": 0.5447, ""elongation_factor"": 2.54}"
+1798806,152,33000,"Puerto Montt",LL,,36214,puerto.montt,CL-LL-PuertoMontt,,"{""area_sr"": 0.23961, ""area_km2"": 2222, ""fat_deg_m"": 0.0000104, ""side_estim_km"": 47.1, ""side_estim_deg"": 0.4895, ""elongation_factor"": 2.14}"
+1795768,152,15400,"Puerto Octay",LL,,51595,puerto.octay,CL-LL-PuertoOctay,,"{""area_sr"": 0.19246, ""area_km2"": 1800, ""fat_deg_m"": 0.0000103, ""side_estim_km"": 42.4, ""side_estim_deg"": 0.4387, ""elongation_factor"": 2.56}"
+1798888,152,33200,"Puerto Varas",LL,,51596,puerto.varas,CL-LL-PuertoVaras,,"{""area_sr"": 0.42907, ""area_km2"": 3997, ""fat_deg_m"": 0.0000104, ""side_estim_km"": 63.2, ""side_estim_deg"": 0.655, ""elongation_factor"": 3.08}"
+3078387,152,18300,Puqueldón,LL,,2118779,puqueldon,CL-LL-Puqueldon,,"{""area_sr"": 0.0504, ""area_km2"": 459, ""fat_deg_m"": 0.0000105, ""side_estim_km"": 21.4, ""side_estim_deg"": 0.2245, ""elongation_factor"": 2.53}"
+1795811,152,15700,Purranque,LL,,51601,purranque,CL-LL-Purranque,,"{""area_sr"": 0.15523, ""area_km2"": 1452, ""fat_deg_m"": 0.0000103, ""side_estim_km"": 38.1, ""side_estim_deg"": 0.394, ""elongation_factor"": 3.22}"
+1795049,152,15300,Puyehue,LL,,15084,puyehue,CL-LL-Puyehue,,"{""area_sr"": 0.17258, ""area_km2"": 1619, ""fat_deg_m"": 0.0000103, ""side_estim_km"": 40.2, ""side_estim_deg"": 0.4154, ""elongation_factor"": 3.08}"
+3076728,152,34100,Queilén,LL,,51607,queilen,CL-LL-Queilen,,"{""area_sr"": 0.12786, ""area_km2"": 1160, ""fat_deg_m"": 0.0000105, ""side_estim_km"": 34.1, ""side_estim_deg"": 0.3576, ""elongation_factor"": 1.42}"
+3076644,152,28700,Quellón,LL,,51608,quellon,CL-LL-Quellon,,"{""area_sr"": 0.91132, ""area_km2"": 8210, ""fat_deg_m"": 0.0000105, ""side_estim_km"": 90.6, ""side_estim_deg"": 0.9546, ""elongation_factor"": 1.73}"
+3078348,152,34400,Quemchi,LL,,51609,quemchi,CL-LL-Quemchi,,"{""area_sr"": 0.24462, ""area_km2"": 2245, ""fat_deg_m"": 0.0000104, ""side_estim_km"": 47.4, ""side_estim_deg"": 0.4946, ""elongation_factor"": 1.29}"
+3078364,152,32200,Quinchao,LL,,56111,quinchao,CL-LL-Quinchao,,"{""area_sr"": 0.11284, ""area_km2"": 1030, ""fat_deg_m"": 0.0000105, ""side_estim_km"": 32.1, ""side_estim_deg"": 0.3359, ""elongation_factor"": 1.22}"
+1795795,152,15500,"Río Negro",LL,,56130,rio.negro,CL-LL-RioNegro,,"{""area_sr"": 0.13462, ""area_km2"": 1262, ""fat_deg_m"": 0.0000103, ""side_estim_km"": 35.5, ""side_estim_deg"": 0.3669, ""elongation_factor"": 3.06}"
+1791817,152,15100,"San Juan de la Costa",LL,,187856,san.juan.la.costa,CL-LL-SanJuanLaCosta,,"{""area_sr"": 0.16197, ""area_km2"": 1524, ""fat_deg_m"": 0.0000103, ""side_estim_km"": 39, ""side_estim_deg"": 0.4025, ""elongation_factor"": 2.12}"
+1791802,152,15000,"San Pablo",LL,,187873,san.pablo,CL-LL-SanPablo,,"{""area_sr"": 0.06683, ""area_km2"": 630, ""fat_deg_m"": 0.0000103, ""side_estim_km"": 25.1, ""side_estim_deg"": 0.2585, ""elongation_factor"": 2.8}"

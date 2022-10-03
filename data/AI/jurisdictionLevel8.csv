@@ -1,11 +1,11 @@
 osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
-1982383,152,18100,Aysén,AI,,3651,aysen,CL-AI-Aysen,,
-1982287,152,17200,"Chile Chico",AI,,3770,chile.chico,CL-AI-ChileChico,,
-1982362,152,18000,Cisnes,AI,,3793,cisnes,CL-AI-Cisnes,,
-1981561,152,17100,Cochrane,AI,,3800,cochrane,CL-AI-Cochrane,,
-1982302,152,17400,Coyhaique,AI,,3810,coyhaique,CL-AI-Coyhaique,,
-1982324,152,17900,Guaitecas,AI,,13069,guaitecas,CL-AI-Guaitecas,,
-1982310,152,17800,"Lago Verde",AI,,14471,lago.verde,CL-AI-LagoVerde,,
-1981246,152,16900,O’Higgins,AI,,51051,o.higgins,CL-AI-OHiggins,,
-1982289,152,17300,"Río Ibáñez",AI,,56129,rio.ibanez,CL-AI-RioIbanez,,
-1981462,152,17000,Tortel,AI,,2390232,tortel,CL-AI-Tortel,,
+1982383,152,18100,Aysén,AI,,3651,aysen,CL-AI-Aysen,,"{""area_sr"": 5.08558, ""area_km2"": 43755, ""fat_deg_m"": 0.0000108, ""side_estim_km"": 209.2, ""side_estim_deg"": 2.2551, ""elongation_factor"": 1.88}"
+1982287,152,17200,"Chile Chico",AI,,3770,chile.chico,CL-AI-ChileChico,,"{""area_sr"": 0.67355, ""area_km2"": 5719, ""fat_deg_m"": 0.0000109, ""side_estim_km"": 75.6, ""side_estim_deg"": 0.8207, ""elongation_factor"": 2.42}"
+1982362,152,18000,Cisnes,AI,,3793,cisnes,CL-AI-Cisnes,,"{""area_sr"": 3.15533, ""area_km2"": 27903, ""fat_deg_m"": 0.0000106, ""side_estim_km"": 167, ""side_estim_deg"": 1.7763, ""elongation_factor"": 2.24}"
+1981561,152,17100,Cochrane,AI,,3800,cochrane,CL-AI-Cochrane,,"{""area_sr"": 1.02812, ""area_km2"": 8635, ""fat_deg_m"": 0.0000109, ""side_estim_km"": 92.9, ""side_estim_deg"": 1.014, ""elongation_factor"": 2.2}"
+1982302,152,17400,Coyhaique,AI,,3810,coyhaique,CL-AI-Coyhaique,,"{""area_sr"": 0.83729, ""area_km2"": 7266, ""fat_deg_m"": 0.0000107, ""side_estim_km"": 85.2, ""side_estim_deg"": 0.915, ""elongation_factor"": 3.05}"
+1982324,152,17900,Guaitecas,AI,,13069,guaitecas,CL-AI-Guaitecas,,"{""area_sr"": 0.46465, ""area_km2"": 4150, ""fat_deg_m"": 0.0000106, ""side_estim_km"": 64.4, ""side_estim_deg"": 0.6817, ""elongation_factor"": 1.6}"
+1982310,152,17800,"Lago Verde",AI,,14471,lago.verde,CL-AI-LagoVerde,,"{""area_sr"": 0.61461, ""area_km2"": 5432, ""fat_deg_m"": 0.0000106, ""side_estim_km"": 73.7, ""side_estim_deg"": 0.784, ""elongation_factor"": 2.69}"
+1981246,152,16900,O’Higgins,AI,,51051,o.higgins,CL-AI-OHiggins,,"{""area_sr"": 0.98867, ""area_km2"": 8128, ""fat_deg_m"": 0.0000110, ""side_estim_km"": 90.2, ""side_estim_deg"": 0.9943, ""elongation_factor"": 2.11}"
+1982289,152,17300,"Río Ibáñez",AI,,56129,rio.ibanez,CL-AI-RioIbanez,,"{""area_sr"": 0.70462, ""area_km2"": 6034, ""fat_deg_m"": 0.0000108, ""side_estim_km"": 77.7, ""side_estim_deg"": 0.8394, ""elongation_factor"": 1.9}"
+1981462,152,17000,Tortel,AI,,2390232,tortel,CL-AI-Tortel,,"{""area_sr"": 3.59889, ""area_km2"": 29887, ""fat_deg_m"": 0.0000110, ""side_estim_km"": 172.9, ""side_estim_deg"": 1.8971, ""elongation_factor"": 1.41}"

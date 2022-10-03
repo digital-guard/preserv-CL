@@ -1,31 +1,31 @@
 osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
-255374,152,23000,Cauquenes,ML,,3749,cauquenes,CL-ML-Cauquenes,,
-296342,152,4400,Chanco,ML,,3762,chanco,CL-ML-Chanco,,
-255307,152,22300,Colbún,ML,,3836,colbun,CL-ML-Colbun,,
-296369,152,4600,Constitución,ML,,3862,constitucion,CL-ML-Constitucion,,
-252836,152,21800,Curepto,ML,,13026,curepto,CL-ML-Curepto,,
-544819,152,7700,Curicó,ML,,13030,curico,CL-ML-Curico,,
-296368,152,4500,Empedrado,ML,,13042,empedrado,CL-ML-Empedrado,,
-252814,152,2300,Hualañé,ML,,13074,hualane,CL-ML-Hualane,,
-252837,152,21900,Licantén,ML,,14490,licanten,CL-ML-Licanten,,
-255309,152,22500,Linares,ML,,14494,linares,CL-ML-Linares,,
-255308,152,22400,Longaví,ML,,16901,longavi,CL-ML-Longavi,,
-541831,152,7300,Maule,ML,,16926,maule,CL-ML-Maule,,
-541828,152,6900,Molina,ML,,51033,molina,CL-ML-Molina,,
-255306,152,22200,Parral,ML,,51083,parral,CL-ML-Parral,,
-541799,152,6700,Pelarco,ML,,51085,pelarco,CL-ML-Pelarco,,
-296293,152,4000,Pelluhue,ML,,51086,pelluhue,CL-ML-Pelluhue,,
-541830,152,7100,Pencahue,ML,,51091,pencahue,CL-ML-Pencahue,,
-252815,152,21500,Rauco,ML,,56116,rauco,CL-ML-Rauco,,
-255333,152,22600,Retiro,ML,,56122,retiro,CL-ML-Retiro,,
-544818,152,7600,Romeral,ML,,56124,romeral,CL-ML-Romeral,,
-544839,152,7800,"Río Claro",ML,,56127,rio.claro,CL-ML-RioClaro,,
-541829,152,7000,"Sagrada Familia",ML,,56133,sagrada.familia,CL-ML-SagradaFamilia,,
-546213,152,8100,"San Clemente",ML,,56138,san.clemente,CL-ML-SanClemente,,
-541848,152,7400,"San Javier",ML,,187831,san.javier,CL-ML-SanJavier,,
-541816,152,6800,"San Rafael",ML,,187898,san.rafael,CL-ML-SanRafael,,
-541797,152,6600,Talca,ML,,4469,talca,CL-ML-Talca,,
-544817,152,7500,Teno,ML,,2383688,teno,CL-ML-Teno,,
-252792,152,2000,Vichuquén,ML,,200992,vichuquen,CL-ML-Vichuquen,,
-545904,152,7900,"Villa Alegre",ML,,201015,villa.alegre,CL-ML-VillaAlegre,,
-545905,152,8000,"Yerbas Buenas",ML,,201046,yerbas.buenas,CL-ML-YerbasBuenas,,
+255374,152,23000,Cauquenes,ML,,3749,cauquenes,CL-ML-Cauquenes,,"{""area_sr"": 0.21221, ""area_km2"": 2124, ""fat_deg_m"": 0.0000100, ""side_estim_km"": 46.1, ""side_estim_deg"": 0.4607, ""elongation_factor"": 2.25}"
+296342,152,4400,Chanco,ML,,3762,chanco,CL-ML-Chanco,,"{""area_sr"": 0.05266, ""area_km2"": 529, ""fat_deg_m"": 0.0000100, ""side_estim_km"": 23, ""side_estim_deg"": 0.2295, ""elongation_factor"": 2}"
+255307,152,22300,Colbún,ML,,3836,colbun,CL-ML-Colbun,,"{""area_sr"": 0.29109, ""area_km2"": 2909, ""fat_deg_m"": 0.0000100, ""side_estim_km"": 53.9, ""side_estim_deg"": 0.5395, ""elongation_factor"": 2.91}"
+296369,152,4600,Constitución,ML,,3862,constitucion,CL-ML-Constitucion,,"{""area_sr"": 0.13258, ""area_km2"": 1337, ""fat_deg_m"": 0.0000100, ""side_estim_km"": 36.6, ""side_estim_deg"": 0.3641, ""elongation_factor"": 2.12}"
+252836,152,21800,Curepto,ML,,13026,curepto,CL-ML-Curepto,,"{""area_sr"": 0.10563, ""area_km2"": 1068, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 32.7, ""side_estim_deg"": 0.325, ""elongation_factor"": 1.9}"
+544819,152,7700,Curicó,ML,,13030,curico,CL-ML-Curico,,"{""area_sr"": 0.13193, ""area_km2"": 1333, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 36.5, ""side_estim_deg"": 0.3632, ""elongation_factor"": 3.64}"
+296368,152,4500,Empedrado,ML,,13042,empedrado,CL-ML-Empedrado,,"{""area_sr"": 0.05609, ""area_km2"": 564, ""fat_deg_m"": 0.0000100, ""side_estim_km"": 23.7, ""side_estim_deg"": 0.2368, ""elongation_factor"": 2.08}"
+252814,152,2300,Hualañé,ML,,13074,hualane,CL-ML-Hualane,,"{""area_sr"": 0.06209, ""area_km2"": 629, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 25.1, ""side_estim_deg"": 0.2492, ""elongation_factor"": 2.56}"
+252837,152,21900,Licantén,ML,,14490,licanten,CL-ML-Licanten,,"{""area_sr"": 0.02711, ""area_km2"": 275, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 16.6, ""side_estim_deg"": 0.1646, ""elongation_factor"": 2.47}"
+255309,152,22500,Linares,ML,,14494,linares,CL-ML-Linares,,"{""area_sr"": 0.14674, ""area_km2"": 1469, ""fat_deg_m"": 0.0000100, ""side_estim_km"": 38.3, ""side_estim_deg"": 0.3831, ""elongation_factor"": 2.78}"
+255308,152,22400,Longaví,ML,,16901,longavi,CL-ML-Longavi,,"{""area_sr"": 0.1446, ""area_km2"": 1445, ""fat_deg_m"": 0.0000100, ""side_estim_km"": 38, ""side_estim_deg"": 0.3803, ""elongation_factor"": 2.67}"
+541831,152,7300,Maule,ML,,16926,maule,CL-ML-Maule,,"{""area_sr"": 0.02436, ""area_km2"": 245, ""fat_deg_m"": 0.0000100, ""side_estim_km"": 15.7, ""side_estim_deg"": 0.1561, ""elongation_factor"": 1.99}"
+541828,152,6900,Molina,ML,,51033,molina,CL-ML-Molina,,"{""area_sr"": 0.15049, ""area_km2"": 1518, ""fat_deg_m"": 0.0000100, ""side_estim_km"": 39, ""side_estim_deg"": 0.3879, ""elongation_factor"": 3.56}"
+255306,152,22200,Parral,ML,,51083,parral,CL-ML-Parral,,"{""area_sr"": 0.16489, ""area_km2"": 1644, ""fat_deg_m"": 0.0000100, ""side_estim_km"": 40.5, ""side_estim_deg"": 0.4061, ""elongation_factor"": 3.36}"
+541799,152,6700,Pelarco,ML,,51085,pelarco,CL-ML-Pelarco,,"{""area_sr"": 0.03286, ""area_km2"": 331, ""fat_deg_m"": 0.0000100, ""side_estim_km"": 18.2, ""side_estim_deg"": 0.1813, ""elongation_factor"": 2.42}"
+296293,152,4000,Pelluhue,ML,,51086,pelluhue,CL-ML-Pelluhue,,"{""area_sr"": 0.03688, ""area_km2"": 369, ""fat_deg_m"": 0.0000100, ""side_estim_km"": 19.2, ""side_estim_deg"": 0.192, ""elongation_factor"": 2.56}"
+541830,152,7100,Pencahue,ML,,51091,pencahue,CL-ML-Pencahue,,"{""area_sr"": 0.09456, ""area_km2"": 954, ""fat_deg_m"": 0.0000100, ""side_estim_km"": 30.9, ""side_estim_deg"": 0.3075, ""elongation_factor"": 1.97}"
+252815,152,21500,Rauco,ML,,56116,rauco,CL-ML-Rauco,,"{""area_sr"": 0.03053, ""area_km2"": 309, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 17.6, ""side_estim_deg"": 0.1747, ""elongation_factor"": 2.9}"
+255333,152,22600,Retiro,ML,,56122,retiro,CL-ML-Retiro,,"{""area_sr"": 0.08271, ""area_km2"": 827, ""fat_deg_m"": 0.0000100, ""side_estim_km"": 28.8, ""side_estim_deg"": 0.2876, ""elongation_factor"": 2.46}"
+544818,152,7600,Romeral,ML,,56124,romeral,CL-ML-Romeral,,"{""area_sr"": 0.15843, ""area_km2"": 1603, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 40, ""side_estim_deg"": 0.398, ""elongation_factor"": 2.45}"
+544839,152,7800,"Río Claro",ML,,56127,rio.claro,CL-ML-RioClaro,,"{""area_sr"": 0.04282, ""area_km2"": 432, ""fat_deg_m"": 0.0000100, ""side_estim_km"": 20.8, ""side_estim_deg"": 0.2069, ""elongation_factor"": 2.7}"
+541829,152,7000,"Sagrada Familia",ML,,56133,sagrada.familia,CL-ML-SagradaFamilia,,"{""area_sr"": 0.0542, ""area_km2"": 548, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 23.4, ""side_estim_deg"": 0.2328, ""elongation_factor"": 2.11}"
+546213,152,8100,"San Clemente",ML,,56138,san.clemente,CL-ML-SanClemente,,"{""area_sr"": 0.44966, ""area_km2"": 4515, ""fat_deg_m"": 0.0000100, ""side_estim_km"": 67.2, ""side_estim_deg"": 0.6706, ""elongation_factor"": 2.41}"
+541848,152,7400,"San Javier",ML,,187831,san.javier,CL-ML-SanJavier,,"{""area_sr"": 0.13044, ""area_km2"": 1311, ""fat_deg_m"": 0.0000100, ""side_estim_km"": 36.2, ""side_estim_deg"": 0.3612, ""elongation_factor"": 2.17}"
+541816,152,6800,"San Rafael",ML,,187898,san.rafael,CL-ML-SanRafael,,"{""area_sr"": 0.02606, ""area_km2"": 263, ""fat_deg_m"": 0.0000100, ""side_estim_km"": 16.2, ""side_estim_deg"": 0.1614, ""elongation_factor"": 2.11}"
+541797,152,6600,Talca,ML,,4469,talca,CL-ML-Talca,,"{""area_sr"": 0.02296, ""area_km2"": 231, ""fat_deg_m"": 0.0000100, ""side_estim_km"": 15.2, ""side_estim_deg"": 0.1515, ""elongation_factor"": 1.96}"
+544817,152,7500,Teno,ML,,2383688,teno,CL-ML-Teno,,"{""area_sr"": 0.06165, ""area_km2"": 625, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 25, ""side_estim_deg"": 0.2483, ""elongation_factor"": 2.7}"
+252792,152,2000,Vichuquén,ML,,200992,vichuquen,CL-ML-Vichuquen,,"{""area_sr"": 0.04437, ""area_km2"": 450, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 21.2, ""side_estim_deg"": 0.2106, ""elongation_factor"": 1.77}"
+545904,152,7900,"Villa Alegre",ML,,201015,villa.alegre,CL-ML-VillaAlegre,,"{""area_sr"": 0.01889, ""area_km2"": 190, ""fat_deg_m"": 0.0000100, ""side_estim_km"": 13.8, ""side_estim_deg"": 0.1375, ""elongation_factor"": 1.65}"
+545905,152,8000,"Yerbas Buenas",ML,,201046,yerbas.buenas,CL-ML-YerbasBuenas,,"{""area_sr"": 0.02576, ""area_km2"": 259, ""fat_deg_m"": 0.0000100, ""side_estim_km"": 16.1, ""side_estim_deg"": 0.1605, ""elongation_factor"": 1.8}"

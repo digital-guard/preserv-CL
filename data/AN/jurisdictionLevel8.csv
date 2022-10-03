@@ -1,10 +1,10 @@
 osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
-1561898,152,24400,Antofagasta,AN,,3612,antofagasta,CL-AN-Antofagasta,,
-1561886,152,24200,Calama,AN,,3685,calama,CL-AN-Calama,,
-1561887,152,24300,"María Elena",AN,,16923,maria.elena,CL-AN-MariaElena,,
-1564422,152,24800,Mejillones,AN,,16928,mejillones,CL-AN-Mejillones,,
-1561885,152,24100,Ollagüe,AN,,51055,ollague,CL-AN-Ollague,,
-1574063,152,25400,"San Pedro de Atacama",AN,,187893,san.pedro.atacama,CL-AN-SanPedroAtacama,,
-1561899,152,24500,"Sierra Gorda",AN,,188027,sierra.gorda,CL-AN-SierraGorda,,
-295883,152,3500,Taltal,AN,,188049,taltal,CL-AN-Taltal,,
-1562080,152,24700,Tocopilla,AN,,188192,tocopilla,CL-AN-Tocopilla,,
+1561898,152,24400,Antofagasta,AN,,3612,antofagasta,CL-AN-Antofagasta,,"{""area_sr"": 2.73559, ""area_km2"": 30763, ""fat_deg_m"": 0.0000094, ""side_estim_km"": 175.4, ""side_estim_deg"": 1.654, ""elongation_factor"": 2.19}"
+1561886,152,24200,Calama,AN,,3685,calama,CL-AN-Calama,,"{""area_sr"": 1.36686, ""area_km2"": 15610, ""fat_deg_m"": 0.0000094, ""side_estim_km"": 124.9, ""side_estim_deg"": 1.1691, ""elongation_factor"": 1.74}"
+1561887,152,24300,"María Elena",AN,,16923,maria.elena,CL-AN-MariaElena,,"{""area_sr"": 1.09006, ""area_km2"": 12455, ""fat_deg_m"": 0.0000094, ""side_estim_km"": 111.6, ""side_estim_deg"": 1.0441, ""elongation_factor"": 1.7}"
+1564422,152,24800,Mejillones,AN,,16928,mejillones,CL-AN-Mejillones,,"{""area_sr"": 0.31501, ""area_km2"": 3578, ""fat_deg_m"": 0.0000094, ""side_estim_km"": 59.8, ""side_estim_deg"": 0.5613, ""elongation_factor"": 1.99}"
+1561885,152,24100,Ollagüe,AN,,51055,ollague,CL-AN-Ollague,,"{""area_sr"": 0.25455, ""area_km2"": 2921, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 54, ""side_estim_deg"": 0.5045, ""elongation_factor"": 1.89}"
+1574063,152,25400,"San Pedro de Atacama",AN,,187893,san.pedro.atacama,CL-AN-SanPedroAtacama,,"{""area_sr"": 2.07412, ""area_km2"": 23479, ""fat_deg_m"": 0.0000094, ""side_estim_km"": 153.2, ""side_estim_deg"": 1.4402, ""elongation_factor"": 1.37}"
+1561899,152,24500,"Sierra Gorda",AN,,188027,sierra.gorda,CL-AN-SierraGorda,,"{""area_sr"": 1.14004, ""area_km2"": 12919, ""fat_deg_m"": 0.0000094, ""side_estim_km"": 113.7, ""side_estim_deg"": 1.0677, ""elongation_factor"": 1.46}"
+295883,152,3500,Taltal,AN,,188049,taltal,CL-AN-Taltal,,"{""area_sr"": 1.82669, ""area_km2"": 20376, ""fat_deg_m"": 0.0000095, ""side_estim_km"": 142.7, ""side_estim_deg"": 1.3516, ""elongation_factor"": 1.57}"
+1562080,152,24700,Tocopilla,AN,,188192,tocopilla,CL-AN-Tocopilla,,"{""area_sr"": 0.35273, ""area_km2"": 4033, ""fat_deg_m"": 0.0000094, ""side_estim_km"": 63.5, ""side_estim_deg"": 0.5939, ""elongation_factor"": 2.16}"

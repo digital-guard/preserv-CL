@@ -1,16 +1,16 @@
 osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
-1589155,152,26000,Andacollo,CO,,3602,andacollo,CL-CO-Andacollo,,
-1591198,152,26600,Canela,CO,,3735,canela,CL-CO-Canela,,
-1589896,152,26400,Combarbalá,CO,,3850,combarbala,CL-CO-Combarbala,,
-1588926,152,25800,Coquimbo,CO,,3871,coquimbo,CL-CO-Coquimbo,,
-1591199,152,26700,Illapel,CO,,14434,illapel,CL-CO-Illapel,,
-1588846,152,25500,"La Higuera",CO,,14462,la.higuera,CL-CO-LaHiguera,,
-1588927,152,25900,"La Serena",CO,,14467,la.serena,CL-CO-LaSerena,,
-231954,152,20800,"Los Vilos",CO,,16908,los.vilos,CL-CO-LosVilos,,
-1589854,152,26100,"Monte Patria",CO,,51034,monte.patria,CL-CO-MontePatria,,
-1590028,152,26500,Ovalle,CO,,51060,ovalle,CL-CO-Ovalle,,
-1588854,152,25700,Paihuano,CO,,51064,paihuano,CL-CO-Paihuano,,
-1589895,152,26300,Punitaqui,CO,,51598,punitaqui,CL-CO-Punitaqui,,
-1589856,152,26200,"Río Hurtado",CO,,56128,rio.hurtado,CL-CO-RioHurtado,,
-231952,152,20600,Salamanca,CO,,56134,salamanca,CL-CO-Salamanca,,
-1588848,152,25600,Vicuña,CO,,201007,vicuna,CL-CO-Vicuna,,
+1589155,152,26000,Andacollo,CO,,3602,andacollo,CL-CO-Andacollo,,"{""area_sr"": 0.04806, ""area_km2"": 513, ""fat_deg_m"": 0.0000097, ""side_estim_km"": 22.6, ""side_estim_deg"": 0.2192, ""elongation_factor"": 2.03}"
+1591198,152,26600,Canela,CO,,3735,canela,CL-CO-Canela,,"{""area_sr"": 0.20814, ""area_km2"": 2195, ""fat_deg_m"": 0.0000097, ""side_estim_km"": 46.8, ""side_estim_deg"": 0.4562, ""elongation_factor"": 2.15}"
+1589896,152,26400,Combarbalá,CO,,3850,combarbala,CL-CO-Combarbala,,"{""area_sr"": 0.21736, ""area_km2"": 2298, ""fat_deg_m"": 0.0000097, ""side_estim_km"": 47.9, ""side_estim_deg"": 0.4662, ""elongation_factor"": 1.99}"
+1588926,152,25800,Coquimbo,CO,,3871,coquimbo,CL-CO-Coquimbo,,"{""area_sr"": 0.13358, ""area_km2"": 1425, ""fat_deg_m"": 0.0000097, ""side_estim_km"": 37.8, ""side_estim_deg"": 0.3655, ""elongation_factor"": 2.63}"
+1591199,152,26700,Illapel,CO,,14434,illapel,CL-CO-Illapel,,"{""area_sr"": 0.24944, ""area_km2"": 2626, ""fat_deg_m"": 0.0000097, ""side_estim_km"": 51.2, ""side_estim_deg"": 0.4994, ""elongation_factor"": 2.47}"
+1588846,152,25500,"La Higuera",CO,,14462,la.higuera,CL-CO-LaHiguera,,"{""area_sr"": 0.38667, ""area_km2"": 4161, ""fat_deg_m"": 0.0000096, ""side_estim_km"": 64.5, ""side_estim_deg"": 0.6218, ""elongation_factor"": 2.36}"
+1588927,152,25900,"La Serena",CO,,14467,la.serena,CL-CO-LaSerena,,"{""area_sr"": 0.17765, ""area_km2"": 1904, ""fat_deg_m"": 0.0000097, ""side_estim_km"": 43.6, ""side_estim_deg"": 0.4215, ""elongation_factor"": 2.16}"
+231954,152,20800,"Los Vilos",CO,,16908,los.vilos,CL-CO-LosVilos,,"{""area_sr"": 0.17728, ""area_km2"": 1858, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 43.1, ""side_estim_deg"": 0.4211, ""elongation_factor"": 2.07}"
+1589854,152,26100,"Monte Patria",CO,,51034,monte.patria,CL-CO-MontePatria,,"{""area_sr"": 0.39684, ""area_km2"": 4209, ""fat_deg_m"": 0.0000097, ""side_estim_km"": 64.9, ""side_estim_deg"": 0.63, ""elongation_factor"": 1.94}"
+1590028,152,26500,Ovalle,CO,,51060,ovalle,CL-CO-Ovalle,,"{""area_sr"": 0.3339, ""area_km2"": 3547, ""fat_deg_m"": 0.0000097, ""side_estim_km"": 59.6, ""side_estim_deg"": 0.5778, ""elongation_factor"": 2.78}"
+1588854,152,25700,Paihuano,CO,,51064,paihuano,CL-CO-Paihuano,,"{""area_sr"": 0.1403, ""area_km2"": 1497, ""fat_deg_m"": 0.0000097, ""side_estim_km"": 38.7, ""side_estim_deg"": 0.3746, ""elongation_factor"": 1.75}"
+1589895,152,26300,Punitaqui,CO,,51598,punitaqui,CL-CO-Punitaqui,,"{""area_sr"": 0.10298, ""area_km2"": 1091, ""fat_deg_m"": 0.0000097, ""side_estim_km"": 33, ""side_estim_deg"": 0.3209, ""elongation_factor"": 2.53}"
+1589856,152,26200,"Río Hurtado",CO,,56128,rio.hurtado,CL-CO-RioHurtado,,"{""area_sr"": 0.20722, ""area_km2"": 2207, ""fat_deg_m"": 0.0000097, ""side_estim_km"": 47, ""side_estim_deg"": 0.4552, ""elongation_factor"": 2.46}"
+231952,152,20600,Salamanca,CO,,56134,salamanca,CL-CO-Salamanca,,"{""area_sr"": 0.32849, ""area_km2"": 3446, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 58.7, ""side_estim_deg"": 0.5731, ""elongation_factor"": 2.17}"
+1588848,152,25600,Vicuña,CO,,201007,vicuna,CL-CO-Vicuna,,"{""area_sr"": 0.70973, ""area_km2"": 7599, ""fat_deg_m"": 0.0000097, ""side_estim_km"": 87.2, ""side_estim_deg"": 0.8425, ""elongation_factor"": 2.3}"

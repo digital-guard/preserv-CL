@@ -1,34 +1,34 @@
 osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
-1675973,152,1400,Chimbarongo,LI,,3782,chimbarongo,CL-LI-Chimbarongo,,
-252816,152,21600,Chépica,LI,,3790,chepica,CL-LI-Chepica,,
-1664153,152,31800,Codegua,LI,,3804,codegua,CL-LI-Codegua,,
-1662398,152,31500,Coinco,LI,,3833,coinco,CL-LI-Coinco,,
-1556979,152,10700,Coltauco,LI,,3847,coltauco,CL-LI-Coltauco,,
-1557007,152,23400,Doñihue,LI,,13035,donihue,CL-LI-Donihue,,
-1560884,152,13600,Graneros,LI,,13068,graneros,CL-LI-Graneros,,
-1661286,152,100,"La Estrella",LI,,14458,la.estrella,CL-LI-LaEstrella,,
-1556980,152,10800,"Las Cabras",LI,,14480,las.cabras,CL-LI-LasCabras,,
-1556895,152,10600,Litueche,LI,,14496,litueche,CL-LI-Litueche,,
-252817,152,21700,Lolol,LI,,16899,lolol,CL-LI-Lolol,,
-1664171,152,31900,Machalí,LI,,16915,machali,CL-LI-Machali,,
-1665551,152,32400,Malloa,LI,,16919,malloa,CL-LI-Malloa,,
-1661155,152,31400,Marchigüe,LI,,16921,marchigue,CL-LI-Marchigue,,
-1557209,152,23600,Mostazal,LI,,51035,mostazal,CL-LI-Mostazal,,
-1674868,152,32700,Nancagua,LI,,51042,nancagua,CL-LI-Nancagua,,
-1556894,152,10500,Navidad,LI,,51045,navidad,CL-LI-Navidad,,
-1662420,152,31600,Olivar,LI,,51053,olivar,CL-LI-Olivar,,
-1675976,152,8200,Palmilla,LI,,51074,palmilla,CL-LI-Palmilla,,
-252813,152,2100,Paredones,LI,,51082,paredones,CL-LI-Paredones,,
-1661304,152,300,Peralillo,LI,,51095,peralillo,CL-LI-Peralillo,,
-1556987,152,23300,Peumo,LI,,51097,peumo,CL-LI-Peumo,,
-1661293,152,200,Pichidegua,LI,,51104,pichidegua,CL-LI-Pichidegua,,
-1660973,152,31300,Pichilemu,LI,,25304,pichilemu,CL-LI-Pichilemu,,
-1674793,152,32600,Placilla,LI,,51117,placilla,CL-LI-Placilla,,
-1661441,152,400,Pumanque,LI,,2098355,pumanque,CL-LI-Pumanque,,
-1665550,152,32300,"Quinta de Tilcoco",LI,,56112,quinta.tilcoco,CL-LI-QuintaTilcoco,,
-1662436,152,31700,Rancagua,LI,,4582,rancagua,CL-LI-Rancagua,,
-1665334,152,32100,Rengo,LI,,56120,rengo,CL-LI-Rengo,,
-1665248,152,32000,Requínoa,LI,,56121,requinoa,CL-LI-Requinoa,,
-1675972,152,32800,"San Fernando",LI,,187807,san.fernando,CL-LI-SanFernando,,
-1666367,152,32500,"San Vicente de Tagua Tagua",LI,,187936,san.vicente.tagua.tagua,CL-LI-SanVicenteTaguaTagua,,
-1675985,152,8300,"Santa Cruz",LI,,187969,santa.cruz,CL-LI-SantaCruz,,
+1675973,152,1400,Chimbarongo,LI,,3782,chimbarongo,CL-LI-Chimbarongo,,"{""area_sr"": 0.04996, ""area_km2"": 507, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 22.5, ""side_estim_deg"": 0.2235, ""elongation_factor"": 1.87}"
+252816,152,21600,Chépica,LI,,3790,chepica,CL-LI-Chepica,,"{""area_sr"": 0.04724, ""area_km2"": 480, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 21.9, ""side_estim_deg"": 0.2174, ""elongation_factor"": 2.63}"
+1664153,152,31800,Codegua,LI,,3804,codegua,CL-LI-Codegua,,"{""area_sr"": 0.02779, ""area_km2"": 285, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 16.9, ""side_estim_deg"": 0.1667, ""elongation_factor"": 2.97}"
+1662398,152,31500,Coinco,LI,,3833,coinco,CL-LI-Coinco,,"{""area_sr"": 0.00965, ""area_km2"": 99, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 9.9, ""side_estim_deg"": 0.0982, ""elongation_factor"": 2.45}"
+1556979,152,10700,Coltauco,LI,,3847,coltauco,CL-LI-Coltauco,,"{""area_sr"": 0.02171, ""area_km2"": 222, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 14.9, ""side_estim_deg"": 0.1474, ""elongation_factor"": 2.17}"
+1557007,152,23400,Doñihue,LI,,13035,donihue,CL-LI-Donihue,,"{""area_sr"": 0.00782, ""area_km2"": 80, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 8.9, ""side_estim_deg"": 0.0884, ""elongation_factor"": 1.77}"
+1560884,152,13600,Graneros,LI,,13068,graneros,CL-LI-Graneros,,"{""area_sr"": 0.01096, ""area_km2"": 112, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 10.6, ""side_estim_deg"": 0.1047, ""elongation_factor"": 1.77}"
+1661286,152,100,"La Estrella",LI,,14458,la.estrella,CL-LI-LaEstrella,,"{""area_sr"": 0.04201, ""area_km2"": 429, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 20.7, ""side_estim_deg"": 0.205, ""elongation_factor"": 2.08}"
+1556980,152,10800,"Las Cabras",LI,,14480,las.cabras,CL-LI-LasCabras,,"{""area_sr"": 0.07358, ""area_km2"": 753, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 27.4, ""side_estim_deg"": 0.2713, ""elongation_factor"": 2.07}"
+1556895,152,10600,Litueche,LI,,14496,litueche,CL-LI-Litueche,,"{""area_sr"": 0.05974, ""area_km2"": 611, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 24.7, ""side_estim_deg"": 0.2444, ""elongation_factor"": 2.88}"
+252817,152,21700,Lolol,LI,,16899,lolol,CL-LI-Lolol,,"{""area_sr"": 0.05875, ""area_km2"": 597, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 24.4, ""side_estim_deg"": 0.2424, ""elongation_factor"": 1.98}"
+1664171,152,31900,Machalí,LI,,16915,machali,CL-LI-Machali,,"{""area_sr"": 0.25421, ""area_km2"": 2595, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 50.9, ""side_estim_deg"": 0.5042, ""elongation_factor"": 1.87}"
+1665551,152,32400,Malloa,LI,,16919,malloa,CL-LI-Malloa,,"{""area_sr"": 0.02155, ""area_km2"": 220, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 14.8, ""side_estim_deg"": 0.1468, ""elongation_factor"": 2.96}"
+1661155,152,31400,Marchigüe,LI,,16921,marchigue,CL-LI-Marchigue,,"{""area_sr"": 0.06451, ""area_km2"": 658, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 25.7, ""side_estim_deg"": 0.254, ""elongation_factor"": 2.34}"
+1557209,152,23600,Mostazal,LI,,51035,mostazal,CL-LI-Mostazal,,"{""area_sr"": 0.05126, ""area_km2"": 526, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 22.9, ""side_estim_deg"": 0.2264, ""elongation_factor"": 1.97}"
+1674868,152,32700,Nancagua,LI,,51042,nancagua,CL-LI-Nancagua,,"{""area_sr"": 0.01485, ""area_km2"": 151, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 12.3, ""side_estim_deg"": 0.1219, ""elongation_factor"": 2.17}"
+1556894,152,10500,Navidad,LI,,51045,navidad,CL-LI-Navidad,,"{""area_sr"": 0.02934, ""area_km2"": 301, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 17.3, ""side_estim_deg"": 0.1713, ""elongation_factor"": 1.71}"
+1662420,152,31600,Olivar,LI,,51053,olivar,CL-LI-Olivar,,"{""area_sr"": 0.00465, ""area_km2"": 48, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 6.9, ""side_estim_deg"": 0.0682, ""elongation_factor"": 2.29}"
+1675976,152,8200,Palmilla,LI,,51074,palmilla,CL-LI-Palmilla,,"{""area_sr"": 0.023, ""area_km2"": 234, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 15.3, ""side_estim_deg"": 0.1517, ""elongation_factor"": 1.93}"
+252813,152,2100,Paredones,LI,,51082,paredones,CL-LI-Paredones,,"{""area_sr"": 0.0563, ""area_km2"": 572, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 23.9, ""side_estim_deg"": 0.2373, ""elongation_factor"": 1.82}"
+1661304,152,300,Peralillo,LI,,51095,peralillo,CL-LI-Peralillo,,"{""area_sr"": 0.02769, ""area_km2"": 282, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 16.8, ""side_estim_deg"": 0.1664, ""elongation_factor"": 1.99}"
+1556987,152,23300,Peumo,LI,,51097,peumo,CL-LI-Peumo,,"{""area_sr"": 0.01512, ""area_km2"": 154, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 12.4, ""side_estim_deg"": 0.123, ""elongation_factor"": 1.57}"
+1661293,152,200,Pichidegua,LI,,51104,pichidegua,CL-LI-Pichidegua,,"{""area_sr"": 0.03141, ""area_km2"": 320, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 17.9, ""side_estim_deg"": 0.1772, ""elongation_factor"": 2.07}"
+1660973,152,31300,Pichilemu,LI,,25304,pichilemu,CL-LI-Pichilemu,,"{""area_sr"": 0.07007, ""area_km2"": 715, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 26.7, ""side_estim_deg"": 0.2647, ""elongation_factor"": 2.33}"
+1674793,152,32600,Placilla,LI,,51117,placilla,CL-LI-Placilla,,"{""area_sr"": 0.01423, ""area_km2"": 145, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 12, ""side_estim_deg"": 0.1193, ""elongation_factor"": 1.4}"
+1661441,152,400,Pumanque,LI,,2098355,pumanque,CL-LI-Pumanque,,"{""area_sr"": 0.04334, ""area_km2"": 441, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 21, ""side_estim_deg"": 0.2082, ""elongation_factor"": 1.72}"
+1665550,152,32300,"Quinta de Tilcoco",LI,,56112,quinta.tilcoco,CL-LI-QuintaTilcoco,,"{""area_sr"": 0.00845, ""area_km2"": 86, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 9.3, ""side_estim_deg"": 0.0919, ""elongation_factor"": 1.62}"
+1662436,152,31700,Rancagua,LI,,4582,rancagua,CL-LI-Rancagua,,"{""area_sr"": 0.02547, ""area_km2"": 261, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 16.1, ""side_estim_deg"": 0.1596, ""elongation_factor"": 1.66}"
+1665334,152,32100,Rengo,LI,,56120,rengo,CL-LI-Rengo,,"{""area_sr"": 0.05744, ""area_km2"": 585, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 24.2, ""side_estim_deg"": 0.2397, ""elongation_factor"": 2.64}"
+1665248,152,32000,Requínoa,LI,,56121,requinoa,CL-LI-Requinoa,,"{""area_sr"": 0.06601, ""area_km2"": 674, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 26, ""side_estim_deg"": 0.2569, ""elongation_factor"": 1.92}"
+1675972,152,32800,"San Fernando",LI,,187807,san.fernando,CL-LI-SanFernando,,"{""area_sr"": 0.22833, ""area_km2"": 2320, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 48.2, ""side_estim_deg"": 0.4778, ""elongation_factor"": 1.86}"
+1666367,152,32500,"San Vicente de Tagua Tagua",LI,,187936,san.vicente.tagua.tagua,CL-LI-SanVicenteTaguaTagua,,"{""area_sr"": 0.04748, ""area_km2"": 484, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 22, ""side_estim_deg"": 0.2179, ""elongation_factor"": 1.89}"
+1675985,152,8300,"Santa Cruz",LI,,187969,santa.cruz,CL-LI-SantaCruz,,"{""area_sr"": 0.03853, ""area_km2"": 392, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 19.8, ""side_estim_deg"": 0.1963, ""elongation_factor"": 2.31}"

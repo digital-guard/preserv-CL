@@ -1,5 +1,5 @@
 osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
-269826,152,2900,Arica,AP,,2203,arica,CL-AP-Arica,,
-406185,152,6500,Camarones,AP,,3729,camarones,CL-AP-Camarones,,
-406175,152,6300,"General Lagos",AP,,13065,general.lagos,CL-AP-GeneralLagos,,
-406176,152,6400,Putre,AP,,51605,putre,CL-AP-Putre,,
+269826,152,2900,Arica,AP,,2203,arica,CL-AP-Arica,,"{""area_sr"": 0.40875, ""area_km2"": 4777, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 69.1, ""side_estim_deg"": 0.6393}"
+406185,152,6500,Camarones,AP,,3729,camarones,CL-AP-Camarones,,"{""area_sr"": 0.33065, ""area_km2"": 3855, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 62.1, ""side_estim_deg"": 0.575}"
+406175,152,6300,"General Lagos",AP,,13065,general.lagos,CL-AP-GeneralLagos,,"{""area_sr"": 0.19241, ""area_km2"": 2257, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 47.5, ""side_estim_deg"": 0.4386, ""elongation_factor"": 1.74}"
+406176,152,6400,Putre,AP,,51605,putre,CL-AP-Putre,,"{""area_sr"": 0.50328, ""area_km2"": 5885, ""fat_deg_m"": 0.0000092, ""side_estim_km"": 76.7, ""side_estim_deg"": 0.7094, ""elongation_factor"": 1.71}"

@@ -1,8 +1,8 @@
 osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
-239461,152,1700,"Alto Hospicio",TA,,2217,alto.hospicio,CL-TA-AltoHospicio,,
-239347,152,21000,Camiña,TA,,3731,camina,CL-TA-Camina,,
-239348,152,21100,Colchane,TA,,3839,colchane,CL-TA-Colchane,,
-239349,152,21200,Huara,TA,,13081,huara,CL-TA-Huara,,
-239456,152,21400,Iquique,TA,,14440,iquique,CL-TA-Iquique,,
-239424,152,21300,Pica,TA,,51102,pica,CL-TA-Pica,,
-1561943,152,24600,"Pozo Almonte",TA,,51585,pozo.almonte,CL-TA-PozoAlmonte,,
+239461,152,1700,"Alto Hospicio",TA,,2217,alto.hospicio,CL-TA-AltoHospicio,,"{""area_sr"": 0.04922, ""area_km2"": 570, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 23.9, ""side_estim_deg"": 0.2219, ""elongation_factor"": 1.12}"
+239347,152,21000,Camiña,TA,,3731,camina,CL-TA-Camina,,"{""area_sr"": 0.19462, ""area_km2"": 2263, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 47.6, ""side_estim_deg"": 0.4412, ""elongation_factor"": 1.54}"
+239348,152,21100,Colchane,TA,,3839,colchane,CL-TA-Colchane,,"{""area_sr"": 0.34293, ""area_km2"": 3988, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 63.2, ""side_estim_deg"": 0.5856, ""elongation_factor"": 1.71}"
+239349,152,21200,Huara,TA,,13081,huara,CL-TA-Huara,,"{""area_sr"": 0.9089, ""area_km2"": 10555, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 102.7, ""side_estim_deg"": 0.9534, ""elongation_factor"": 2.15}"
+239456,152,21400,Iquique,TA,,14440,iquique,CL-TA-Iquique,,"{""area_sr"": 0.1991, ""area_km2"": 2293, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 47.9, ""side_estim_deg"": 0.4462, ""elongation_factor"": 3.34}"
+239424,152,21300,Pica,TA,,51102,pica,CL-TA-Pica,,"{""area_sr"": 0.77716, ""area_km2"": 8976, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 94.7, ""side_estim_deg"": 0.8816, ""elongation_factor"": 2.48}"
+1561943,152,24600,"Pozo Almonte",TA,,51585,pozo.almonte,CL-TA-PozoAlmonte,,"{""area_sr"": 1.19532, ""area_km2"": 13780, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 117.4, ""side_estim_deg"": 1.0933, ""elongation_factor"": 2.09}"

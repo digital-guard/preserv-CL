@@ -1,53 +1,53 @@
 osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
-1556873,152,10400,Alhué,RM,,2208,alhue,CL-RM-Alhue,,
-660816,152,23200,Buin,RM,,3656,buin,CL-RM-Buin,,
-1626780,152,28900,"Calera de Tango",RM,,3725,calera.tango,CL-RM-CaleraTango,,
-168260,152,16400,Cerrillos,RM,,3755,cerrillos,CL-RM-Cerrillos,,
-168271,152,18200,"Cerro Navia",RM,,3756,cerro.navia,CL-RM-CerroNavia,,
-164101,152,9900,Colina,RM,,3841,colina,CL-RM-Colina,,
-190910,152,18700,Conchalí,RM,,3851,conchali,CL-RM-Conchali,,
-168297,152,18500,Curacaví,RM,,3885,curacavi,CL-RM-Curacavi,,
-191203,152,20000,"El Bosque",RM,,13036,el.bosque,CL-RM-ElBosque,,
-1617563,152,27300,"El Monte",RM,,13038,el.monte,CL-RM-ElMonte,,
-168058,152,16300,"Estación Central",RM,,13045,estacion.central,CL-RM-EstacionCentral,,
-164091,152,9800,Huechuraba,RM,,14433,huechuraba,CL-RM-Huechuraba,,
-168060,152,17600,Independencia,RM,,14437,independencia,CL-RM-Independencia,,
-1557251,152,23700,"Isla de Maipo",RM,,14445,isla.maipo,CL-RM-IslaMaipo,,
-191200,152,19800,"La Cisterna",RM,,14456,la.cisterna,CL-RM-LaCisterna,,
-224590,152,20200,"La Florida",RM,,14460,la.florida,CL-RM-LaFlorida,,
-191220,152,20100,"La Granja",RM,,14461,la.granja,CL-RM-LaGranja,,
-191216,152,20400,"La Pintana",RM,,14464,la.pintana,CL-RM-LaPintana,,
-162992,152,6000,"La Reina",RM,,14466,la.reina,CL-RM-LaReina,,
-168295,152,18400,Lampa,RM,,14477,lampa,CL-RM-Lampa,,
-162991,152,7200,"Las Condes",RM,,14484,las.condes,CL-RM-LasCondes,,
-164090,152,9200,"Lo Barnechea",RM,,14502,lo.barnechea,CL-RM-LoBarnechea,,
-191193,152,19400,"Lo Espejo",RM,,14503,lo.espejo,CL-RM-LoEspejo,,
-168268,152,5500,"Lo Prado",RM,,14504,lo.prado,CL-RM-LoPrado,,
-191190,152,19000,Macul,RM,,16916,macul,CL-RM-Macul,,
-168259,152,17700,Maipú,RM,,16918,maipu,CL-RM-Maipu,,
-296839,152,5200,"María Pinto",RM,,16925,maria.pinto,CL-RM-MariaPinto,,
-296835,152,5000,Melipilla,RM,,51032,melipilla,CL-RM-Melipilla,,
-175820,152,18600,"Padre Hurtado",RM,,51062,padre.hurtado,CL-RM-PadreHurtado,,
-1557208,152,23500,Paine,RM,,51070,paine,CL-RM-Paine,,
-168057,152,1900,"Pedro Aguirre Cerda",RM,,51084,pedro.aguirre.cerda,CL-RM-PedroAguirreCerda,,
-1626477,152,28800,Peñaflor,RM,,51098,penaflor,CL-RM-Penaflor,,
-164137,152,10300,Peñalolén,RM,,51100,penalolen,CL-RM-Penalolen,,
-238959,152,20900,Pirque,RM,,51113,pirque,CL-RM-Pirque,,
-162983,152,5400,Providencia,RM,,51587,providencia,CL-RM-Providencia,,
-168269,152,5600,Pudahuel,RM,,51591,pudahuel,CL-RM-Pudahuel,,
-166571,152,15600,"Puente Alto",RM,,51594,puente.alto,CL-RM-PuenteAlto,,
-164102,152,10000,Quilicura,RM,,51612,quilicura,CL-RM-Quilicura,,
-168059,152,17500,"Quinta Normal",RM,,56113,quinta.normal,CL-RM-QuintaNormal,,
-162984,152,5900,Recoleta,RM,,56117,recoleta,CL-RM-Recoleta,,
-109577,152,500,Renca,RM,,56119,renca,CL-RM-Renca,,
-660810,152,23100,"San Bernardo",RM,,56136,san.bernardo,CL-RM-SanBernardo,,
-168055,152,6200,"San Joaquín",RM,,187838,san.joaquin,CL-RM-SanJoaquin,,
-166556,152,13000,"San José de Maipo",RM,,187847,san.jose.maipo,CL-RM-SanJoseMaipo,,
-168056,152,9300,"San Miguel",RM,,187862,san.miguel,CL-RM-SanMiguel,,
-296836,152,5100,"San Pedro",RM,,187885,san.pedro,CL-RM-SanPedro,,
-191201,152,19900,"San Ramón",RM,,187919,san.ramon,CL-RM-SanRamon,,
-164609,152,12900,Santiago,RM,,2887,santiago,CL-RM-Santiago,,
-1626706,152,29200,Talagante,RM,,188038,talagante,CL-RM-Talagante,,
-175894,152,18800,Tiltil,RM,,188170,tiltil,CL-RM-Tiltil,,
-162990,152,6100,Vitacura,RM,,201036,vitacura,CL-RM-Vitacura,,
-162993,152,9100,Ñuñoa,RM,,201076,nunoa,CL-RM-Nunoa,,
+1556873,152,10400,Alhué,RM,,2208,alhue,CL-RM-Alhue,,"{""area_sr"": 0.08237, ""area_km2"": 844, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 29, ""side_estim_deg"": 0.287, ""elongation_factor"": 1.85}"
+660816,152,23200,Buin,RM,,3656,buin,CL-RM-Buin,,"{""area_sr"": 0.02116, ""area_km2"": 217, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 14.7, ""side_estim_deg"": 0.1455, ""elongation_factor"": 2.26}"
+1626780,152,28900,"Calera de Tango",RM,,3725,calera.tango,CL-RM-CaleraTango,,"{""area_sr"": 0.0071, ""area_km2"": 73, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 8.5, ""side_estim_deg"": 0.0843, ""elongation_factor"": 1.86}"
+168260,152,16400,Cerrillos,RM,,3755,cerrillos,CL-RM-Cerrillos,,"{""area_sr"": 0.00164, ""area_km2"": 17, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 4.1, ""side_estim_deg"": 0.0405, ""elongation_factor"": 1.7}"
+168271,152,18200,"Cerro Navia",RM,,3756,cerro.navia,CL-RM-CerroNavia,,"{""area_sr"": 0.00108, ""area_km2"": 11, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 3.3, ""side_estim_deg"": 0.0329, ""elongation_factor"": 1.82}"
+164101,152,9900,Colina,RM,,3841,colina,CL-RM-Colina,,"{""area_sr"": 0.09392, ""area_km2"": 972, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 31.2, ""side_estim_deg"": 0.3065, ""elongation_factor"": 1.78}"
+190910,152,18700,Conchalí,RM,,3851,conchali,CL-RM-Conchali,,"{""area_sr"": 0.00106, ""area_km2"": 11, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 3.3, ""side_estim_deg"": 0.0326, ""elongation_factor"": 1.08}"
+168297,152,18500,Curacaví,RM,,3885,curacavi,CL-RM-Curacavi,,"{""area_sr"": 0.06722, ""area_km2"": 694, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 26.3, ""side_estim_deg"": 0.2593, ""elongation_factor"": 1.97}"
+191203,152,20000,"El Bosque",RM,,13036,el.bosque,CL-RM-ElBosque,,"{""area_sr"": 0.00138, ""area_km2"": 14, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 3.8, ""side_estim_deg"": 0.0372, ""elongation_factor"": 0.88}"
+1617563,152,27300,"El Monte",RM,,13038,el.monte,CL-RM-ElMonte,,"{""area_sr"": 0.01122, ""area_km2"": 115, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 10.7, ""side_estim_deg"": 0.1059, ""elongation_factor"": 1.57}"
+168058,152,16300,"Estación Central",RM,,13045,estacion.central,CL-RM-EstacionCentral,,"{""area_sr"": 0.00139, ""area_km2"": 14, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 3.8, ""side_estim_deg"": 0.0372, ""elongation_factor"": 1.66}"
+164091,152,9800,Huechuraba,RM,,14433,huechuraba,CL-RM-Huechuraba,,"{""area_sr"": 0.00436, ""area_km2"": 45, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 6.7, ""side_estim_deg"": 0.066, ""elongation_factor"": 1.58}"
+168060,152,17600,Independencia,RM,,14437,independencia,CL-RM-Independencia,,"{""area_sr"": 0.00071, ""area_km2"": 7, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 2.7, ""side_estim_deg"": 0.0266, ""elongation_factor"": 1.06}"
+1557251,152,23700,"Isla de Maipo",RM,,14445,isla.maipo,CL-RM-IslaMaipo,,"{""area_sr"": 0.01823, ""area_km2"": 187, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 13.7, ""side_estim_deg"": 0.135, ""elongation_factor"": 2.29}"
+191200,152,19800,"La Cisterna",RM,,14456,la.cisterna,CL-RM-LaCisterna,,"{""area_sr"": 0.00097, ""area_km2"": 10, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 3.2, ""side_estim_deg"": 0.0312, ""elongation_factor"": 0.86}"
+224590,152,20200,"La Florida",RM,,14460,la.florida,CL-RM-LaFlorida,,"{""area_sr"": 0.0069, ""area_km2"": 71, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 8.4, ""side_estim_deg"": 0.0831, ""elongation_factor"": 2.27}"
+191220,152,20100,"La Granja",RM,,14461,la.granja,CL-RM-LaGranja,,"{""area_sr"": 0.00098, ""area_km2"": 10, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 3.2, ""side_estim_deg"": 0.0312, ""elongation_factor"": 1.14}"
+191216,152,20400,"La Pintana",RM,,14464,la.pintana,CL-RM-LaPintana,,"{""area_sr"": 0.00297, ""area_km2"": 31, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 5.5, ""side_estim_deg"": 0.0545, ""elongation_factor"": 1.47}"
+162992,152,6000,"La Reina",RM,,14466,la.reina,CL-RM-LaReina,,"{""area_sr"": 0.00229, ""area_km2"": 24, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 4.9, ""side_estim_deg"": 0.0479, ""elongation_factor"": 1.81}"
+168295,152,18400,Lampa,RM,,14477,lampa,CL-RM-Lampa,,"{""area_sr"": 0.04354, ""area_km2"": 450, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 21.2, ""side_estim_deg"": 0.2087, ""elongation_factor"": 1.51}"
+162991,152,7200,"Las Condes",RM,,14484,las.condes,CL-RM-LasCondes,,"{""area_sr"": 0.00959, ""area_km2"": 99, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 9.9, ""side_estim_deg"": 0.0979, ""elongation_factor"": 1.88}"
+164090,152,9200,"Lo Barnechea",RM,,14502,lo.barnechea,CL-RM-LoBarnechea,,"{""area_sr"": 0.09898, ""area_km2"": 1022, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 32, ""side_estim_deg"": 0.3146, ""elongation_factor"": 1.34}"
+191193,152,19400,"Lo Espejo",RM,,14503,lo.espejo,CL-RM-LoEspejo,,"{""area_sr"": 0.0008, ""area_km2"": 8, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 2.9, ""side_estim_deg"": 0.0282}"
+168268,152,5500,"Lo Prado",RM,,14504,lo.prado,CL-RM-LoPrado,,"{""area_sr"": 0.00064, ""area_km2"": 7, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 2.6, ""side_estim_deg"": 0.0252, ""elongation_factor"": 1.07}"
+191190,152,19000,Macul,RM,,16916,macul,CL-RM-Macul,,"{""area_sr"": 0.00125, ""area_km2"": 13, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 3.6, ""side_estim_deg"": 0.0353, ""elongation_factor"": 1.08}"
+168259,152,17700,Maipú,RM,,16918,maipu,CL-RM-Maipu,,"{""area_sr"": 0.01336, ""area_km2"": 138, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 11.7, ""side_estim_deg"": 0.1156, ""elongation_factor"": 1.87}"
+296839,152,5200,"María Pinto",RM,,16925,maria.pinto,CL-RM-MariaPinto,,"{""area_sr"": 0.0383, ""area_km2"": 395, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 19.9, ""side_estim_deg"": 0.1957, ""elongation_factor"": 1.88}"
+296835,152,5000,Melipilla,RM,,51032,melipilla,CL-RM-Melipilla,,"{""area_sr"": 0.13062, ""area_km2"": 1342, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 36.6, ""side_estim_deg"": 0.3614, ""elongation_factor"": 2.14}"
+175820,152,18600,"Padre Hurtado",RM,,51062,padre.hurtado,CL-RM-PadreHurtado,,"{""area_sr"": 0.00789, ""area_km2"": 81, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 9, ""side_estim_deg"": 0.0888, ""elongation_factor"": 2.04}"
+1557208,152,23500,Paine,RM,,51070,paine,CL-RM-Paine,,"{""area_sr"": 0.06609, ""area_km2"": 678, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 26, ""side_estim_deg"": 0.2571, ""elongation_factor"": 2.29}"
+168057,152,1900,"Pedro Aguirre Cerda",RM,,51084,pedro.aguirre.cerda,CL-RM-PedroAguirreCerda,,"{""area_sr"": 0.00084, ""area_km2"": 9, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 2.9, ""side_estim_deg"": 0.029, ""elongation_factor"": 1.27}"
+1626477,152,28800,Peñaflor,RM,,51098,penaflor,CL-RM-Penaflor,,"{""area_sr"": 0.00673, ""area_km2"": 69, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 8.3, ""side_estim_deg"": 0.0821, ""elongation_factor"": 1.61}"
+164137,152,10300,Peñalolén,RM,,51100,penalolen,CL-RM-Penalolen,,"{""area_sr"": 0.0052, ""area_km2"": 54, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 7.3, ""side_estim_deg"": 0.0721, ""elongation_factor"": 1.88}"
+238959,152,20900,Pirque,RM,,51113,pirque,CL-RM-Pirque,,"{""area_sr"": 0.04328, ""area_km2"": 445, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 21.1, ""side_estim_deg"": 0.208, ""elongation_factor"": 1.52}"
+162983,152,5400,Providencia,RM,,51587,providencia,CL-RM-Providencia,,"{""area_sr"": 0.0014, ""area_km2"": 14, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 3.8, ""side_estim_deg"": 0.0374, ""elongation_factor"": 1.17}"
+168269,152,5600,Pudahuel,RM,,51591,pudahuel,CL-RM-Pudahuel,,"{""area_sr"": 0.01914, ""area_km2"": 197, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 14.1, ""side_estim_deg"": 0.1384, ""elongation_factor"": 1.7}"
+166571,152,15600,"Puente Alto",RM,,51594,puente.alto,CL-RM-PuenteAlto,,"{""area_sr"": 0.00856, ""area_km2"": 88, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 9.4, ""side_estim_deg"": 0.0925, ""elongation_factor"": 1.77}"
+164102,152,10000,Quilicura,RM,,51612,quilicura,CL-RM-Quilicura,,"{""area_sr"": 0.00552, ""area_km2"": 57, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 7.6, ""side_estim_deg"": 0.0743, ""elongation_factor"": 1.46}"
+168059,152,17500,"Quinta Normal",RM,,56113,quinta.normal,CL-RM-QuintaNormal,,"{""area_sr"": 0.00115, ""area_km2"": 12, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 3.4, ""side_estim_deg"": 0.0339, ""elongation_factor"": 1.71}"
+162984,152,5900,Recoleta,RM,,56117,recoleta,CL-RM-Recoleta,,"{""area_sr"": 0.00154, ""area_km2"": 16, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 4, ""side_estim_deg"": 0.0392, ""elongation_factor"": 1.42}"
+109577,152,500,Renca,RM,,56119,renca,CL-RM-Renca,,"{""area_sr"": 0.0023, ""area_km2"": 24, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 4.9, ""side_estim_deg"": 0.0479, ""elongation_factor"": 2.32}"
+660810,152,23100,"San Bernardo",RM,,56136,san.bernardo,CL-RM-SanBernardo,,"{""area_sr"": 0.01487, ""area_km2"": 153, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 12.4, ""side_estim_deg"": 0.122, ""elongation_factor"": 2.69}"
+168055,152,6200,"San Joaquín",RM,,187838,san.joaquin,CL-RM-SanJoaquin,,"{""area_sr"": 0.00096, ""area_km2"": 10, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 3.2, ""side_estim_deg"": 0.0311, ""elongation_factor"": 1.21}"
+166556,152,13000,"San José de Maipo",RM,,187847,san.jose.maipo,CL-RM-SanJoseMaipo,,"{""area_sr"": 0.48544, ""area_km2"": 4991, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 70.6, ""side_estim_deg"": 0.6967, ""elongation_factor"": 2.34}"
+168056,152,9300,"San Miguel",RM,,187862,san.miguel,CL-RM-SanMiguel,,"{""area_sr"": 0.00093, ""area_km2"": 10, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 3.1, ""side_estim_deg"": 0.0306, ""elongation_factor"": 1.1}"
+296836,152,5100,"San Pedro",RM,,187885,san.pedro,CL-RM-SanPedro,,"{""area_sr"": 0.07747, ""area_km2"": 794, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 28.2, ""side_estim_deg"": 0.2783, ""elongation_factor"": 2.05}"
+191201,152,19900,"San Ramón",RM,,187919,san.ramon,CL-RM-SanRamon,,"{""area_sr"": 0.00061, ""area_km2"": 6, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 2.5, ""side_estim_deg"": 0.0248, ""elongation_factor"": 1.36}"
+164609,152,12900,Santiago,RM,,2887,santiago,CL-RM-Santiago,,"{""area_sr"": 0.00226, ""area_km2"": 23, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 4.8, ""side_estim_deg"": 0.0475, ""elongation_factor"": 1.62}"
+1626706,152,29200,Talagante,RM,,188038,talagante,CL-RM-Talagante,,"{""area_sr"": 0.01247, ""area_km2"": 128, ""fat_deg_m"": 0.0000099, ""side_estim_km"": 11.3, ""side_estim_deg"": 0.1116, ""elongation_factor"": 2.33}"
+175894,152,18800,Tiltil,RM,,188170,tiltil,CL-RM-Tiltil,,"{""area_sr"": 0.06323, ""area_km2"": 655, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 25.6, ""side_estim_deg"": 0.2515, ""elongation_factor"": 1.6}"
+162990,152,6100,Vitacura,RM,,201036,vitacura,CL-RM-Vitacura,,"{""area_sr"": 0.00274, ""area_km2"": 28, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 5.3, ""side_estim_deg"": 0.0524, ""elongation_factor"": 1.7}"
+162993,152,9100,Ñuñoa,RM,,201076,nunoa,CL-RM-Nunoa,,"{""area_sr"": 0.00164, ""area_km2"": 17, ""fat_deg_m"": 0.0000098, ""side_estim_km"": 4.1, ""side_estim_deg"": 0.0405, ""elongation_factor"": 1.26}"

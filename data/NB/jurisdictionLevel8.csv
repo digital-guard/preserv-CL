@@ -1,22 +1,22 @@
 osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
-1597490,152,26800,Bulnes,NB,,3663,bulnes,CL-NB-Bulnes,,
-255340,152,22900,Chillán,NB,,3774,chillan,CL-NB-Chillan,,
-269390,152,2800,"Chillán Viejo",NB,,3779,chillan.viejo,CL-NB-ChillanViejo,,
-296294,152,4100,Cobquecura,NB,,3796,cobquecura,CL-NB-Cobquecura,,
-1558627,152,23900,Coelemu,NB,,3807,coelemu,CL-NB-Coelemu,,
-255295,152,22000,Coihueco,NB,,3814,coihueco,CL-NB-Coihueco,,
-1560012,152,13500,"El Carmen",NB,,17629903,el.carmen,CL-NB-ElCarmen,,
-296296,152,4300,Ninhue,NB,,51048,ninhue,CL-NB-Ninhue,,
-1652065,152,29300,Pemuco,NB,,51090,pemuco,CL-NB-Pemuco,,
-269309,152,2600,Pinto,NB,,51106,pinto,CL-NB-Pinto,,
-1558832,152,13200,Portezuelo,NB,,51119,portezuelo,CL-NB-Portezuelo,,
-1597510,152,26900,Quillón,NB,,56109,quillon,CL-NB-Quillon,,
-296295,152,4200,Quirihue,NB,,56115,quirihue,CL-NB-Quirihue,,
-1558833,152,13300,Ránquil,NB,,56125,ranquil,CL-NB-Ranquil,,
-255339,152,22800,"San Carlos",NB,,6118518,san.carlos,CL-NB-SanCarlos,,
-255296,152,22100,"San Fabián",NB,,187795,san.fabian,CL-NB-SanFabian,,
-269388,152,2700,"San Ignacio",NB,,20022194,san.ignacio,CL-NB-SanIgnacio,,
-1558759,152,24000,"San Nicolás",NB,,187866,san.nicolas,CL-NB-SanNicolas,,
-1558531,152,23800,Treguaco,NB,,200963,treguaco,CL-NB-Treguaco,,
-1652478,152,29600,Yungay,NB,,201056,yungay,CL-NB-Yungay,,
-255335,152,22700,Ñiquén,NB,,201070,niquen,CL-NB-Niquen,,
+1597490,152,26800,Bulnes,NB,,3663,bulnes,CL-NB-Bulnes,,"{""area_sr"": 0.04299, ""area_km2"": 426, ""fat_deg_m"": 0.0000100, ""side_estim_km"": 20.6, ""side_estim_deg"": 0.2073, ""elongation_factor"": 1.84}"
+255340,152,22900,Chillán,NB,,3774,chillan,CL-NB-Chillan,,"{""area_sr"": 0.04783, ""area_km2"": 475, ""fat_deg_m"": 0.0000100, ""side_estim_km"": 21.8, ""side_estim_deg"": 0.2187, ""elongation_factor"": 3.9}"
+269390,152,2800,"Chillán Viejo",NB,,3779,chillan.viejo,CL-NB-ChillanViejo,,"{""area_sr"": 0.02654, ""area_km2"": 263, ""fat_deg_m"": 0.0000100, ""side_estim_km"": 16.2, ""side_estim_deg"": 0.1629, ""elongation_factor"": 2}"
+296294,152,4100,Cobquecura,NB,,3796,cobquecura,CL-NB-Cobquecura,,"{""area_sr"": 0.05711, ""area_km2"": 570, ""fat_deg_m"": 0.0000100, ""side_estim_km"": 23.9, ""side_estim_deg"": 0.239, ""elongation_factor"": 2.36}"
+1558627,152,23900,Coelemu,NB,,3807,coelemu,CL-NB-Coelemu,,"{""area_sr"": 0.03462, ""area_km2"": 344, ""fat_deg_m"": 0.0000100, ""side_estim_km"": 18.6, ""side_estim_deg"": 0.1861, ""elongation_factor"": 1.82}"
+255295,152,22000,Coihueco,NB,,3814,coihueco,CL-NB-Coihueco,,"{""area_sr"": 0.17861, ""area_km2"": 1771, ""fat_deg_m"": 0.0000100, ""side_estim_km"": 42.1, ""side_estim_deg"": 0.4226, ""elongation_factor"": 2.51}"
+1560012,152,13500,"El Carmen",NB,,17629903,el.carmen,CL-NB-ElCarmen,,"{""area_sr"": 0.06742, ""area_km2"": 667, ""fat_deg_m"": 0.0000101, ""side_estim_km"": 25.8, ""side_estim_deg"": 0.2597, ""elongation_factor"": 2.37}"
+296296,152,4300,Ninhue,NB,,51048,ninhue,CL-NB-Ninhue,,"{""area_sr"": 0.04044, ""area_km2"": 403, ""fat_deg_m"": 0.0000100, ""side_estim_km"": 20.1, ""side_estim_deg"": 0.2011, ""elongation_factor"": 2.03}"
+1652065,152,29300,Pemuco,NB,,51090,pemuco,CL-NB-Pemuco,,"{""area_sr"": 0.05684, ""area_km2"": 562, ""fat_deg_m"": 0.0000101, ""side_estim_km"": 23.7, ""side_estim_deg"": 0.2384, ""elongation_factor"": 3.57}"
+269309,152,2600,Pinto,NB,,51106,pinto,CL-NB-Pinto,,"{""area_sr"": 0.11146, ""area_km2"": 1102, ""fat_deg_m"": 0.0000101, ""side_estim_km"": 33.2, ""side_estim_deg"": 0.3339, ""elongation_factor"": 3.22}"
+1558832,152,13200,Portezuelo,NB,,51119,portezuelo,CL-NB-Portezuelo,,"{""area_sr"": 0.02913, ""area_km2"": 289, ""fat_deg_m"": 0.0000100, ""side_estim_km"": 17, ""side_estim_deg"": 0.1707, ""elongation_factor"": 1.72}"
+1597510,152,26900,Quillón,NB,,56109,quillon,CL-NB-Quillon,,"{""area_sr"": 0.04096, ""area_km2"": 406, ""fat_deg_m"": 0.0000100, ""side_estim_km"": 20.1, ""side_estim_deg"": 0.2024, ""elongation_factor"": 2.22}"
+296295,152,4200,Quirihue,NB,,56115,quirihue,CL-NB-Quirihue,,"{""area_sr"": 0.05907, ""area_km2"": 589, ""fat_deg_m"": 0.0000100, ""side_estim_km"": 24.3, ""side_estim_deg"": 0.243, ""elongation_factor"": 2.69}"
+1558833,152,13300,Ránquil,NB,,56125,ranquil,CL-NB-Ranquil,,"{""area_sr"": 0.02491, ""area_km2"": 247, ""fat_deg_m"": 0.0000100, ""side_estim_km"": 15.7, ""side_estim_deg"": 0.1578, ""elongation_factor"": 1.88}"
+255339,152,22800,"San Carlos",NB,,6118518,san.carlos,CL-NB-SanCarlos,,"{""area_sr"": 0.08802, ""area_km2"": 876, ""fat_deg_m"": 0.0000100, ""side_estim_km"": 29.6, ""side_estim_deg"": 0.2967, ""elongation_factor"": 2.76}"
+255296,152,22100,"San Fabián",NB,,187795,san.fabian,CL-NB-SanFabian,,"{""area_sr"": 0.15525, ""area_km2"": 1542, ""fat_deg_m"": 0.0000100, ""side_estim_km"": 39.3, ""side_estim_deg"": 0.394, ""elongation_factor"": 2.86}"
+269388,152,2700,"San Ignacio",NB,,20022194,san.ignacio,CL-NB-SanIgnacio,,"{""area_sr"": 0.03667, ""area_km2"": 363, ""fat_deg_m"": 0.0000100, ""side_estim_km"": 19.1, ""side_estim_deg"": 0.1915, ""elongation_factor"": 2.5}"
+1558759,152,24000,"San Nicolás",NB,,187866,san.nicolas,CL-NB-SanNicolas,,"{""area_sr"": 0.05695, ""area_km2"": 566, ""fat_deg_m"": 0.0000100, ""side_estim_km"": 23.8, ""side_estim_deg"": 0.2386, ""elongation_factor"": 1.81}"
+1558531,152,23800,Treguaco,NB,,200963,treguaco,CL-NB-Treguaco,,"{""area_sr"": 0.03142, ""area_km2"": 313, ""fat_deg_m"": 0.0000100, ""side_estim_km"": 17.7, ""side_estim_deg"": 0.1773, ""elongation_factor"": 2.52}"
+1652478,152,29600,Yungay,NB,,201056,yungay,CL-NB-Yungay,,"{""area_sr"": 0.08358, ""area_km2"": 825, ""fat_deg_m"": 0.0000101, ""side_estim_km"": 28.7, ""side_estim_deg"": 0.2891, ""elongation_factor"": 2.82}"
+255335,152,22700,Ñiquén,NB,,201070,niquen,CL-NB-Niquen,,"{""area_sr"": 0.04941, ""area_km2"": 492, ""fat_deg_m"": 0.0000100, ""side_estim_km"": 22.2, ""side_estim_deg"": 0.2223, ""elongation_factor"": 2.83}"

@@ -1,10 +1,10 @@
 osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
-1572124,152,25100,"Alto del Carmen",AT,,2215,alto.carmen,CL-AT-AltoCarmen,,
-295912,152,3800,Caldera,AT,,3708,caldera,CL-AT-Caldera,,
-295905,152,3700,Chañaral,AT,,3763,chanaral,CL-AT-Chanaral,,
-295922,152,3900,Copiapó,AT,,3868,copiapo,CL-AT-Copiapo,,
-295896,152,3600,"Diego de Almagro",AT,,13033,diego.almagro,CL-AT-DiegoAlmagro,,
-1572198,152,25300,Freirina,AT,,13051,freirina,CL-AT-Freirina,,
-1572197,152,25200,Huasco,AT,,14422,huasco,CL-AT-Huasco,,
-1572123,152,25000,"Tierra Amarilla",AT,,188142,tierra.amarilla,CL-AT-TierraAmarilla,,
-1572107,152,24900,Vallenar,AT,,200978,vallenar,CL-AT-Vallenar,,
+1572124,152,25100,"Alto del Carmen",AT,,2215,alto.carmen,CL-AT-AltoCarmen,,"{""area_sr"": 0.56473, ""area_km2"": 6099, ""fat_deg_m"": 0.0000096, ""side_estim_km"": 78.1, ""side_estim_deg"": 0.7515, ""elongation_factor"": 1.82}"
+295912,152,3800,Caldera,AT,,3708,caldera,CL-AT-Caldera,,"{""area_sr"": 0.336, ""area_km2"": 3691, ""fat_deg_m"": 0.0000095, ""side_estim_km"": 60.8, ""side_estim_deg"": 0.5797, ""elongation_factor"": 2.65}"
+295905,152,3700,Chañaral,AT,,3763,chanaral,CL-AT-Chanaral,,"{""area_sr"": 0.51908, ""area_km2"": 5739, ""fat_deg_m"": 0.0000095, ""side_estim_km"": 75.8, ""side_estim_deg"": 0.7205, ""elongation_factor"": 1.92}"
+295922,152,3900,Copiapó,AT,,3868,copiapo,CL-AT-Copiapo,,"{""area_sr"": 1.60729, ""area_km2"": 17627, ""fat_deg_m"": 0.0000095, ""side_estim_km"": 132.8, ""side_estim_deg"": 1.2678, ""elongation_factor"": 3.33}"
+295896,152,3600,"Diego de Almagro",AT,,13033,diego.almagro,CL-AT-DiegoAlmagro,,"{""area_sr"": 1.7285, ""area_km2"": 19134, ""fat_deg_m"": 0.0000095, ""side_estim_km"": 138.3, ""side_estim_deg"": 1.3147, ""elongation_factor"": 1.99}"
+1572198,152,25300,Freirina,AT,,13051,freirina,CL-AT-Freirina,,"{""area_sr"": 0.27983, ""area_km2"": 3027, ""fat_deg_m"": 0.0000096, ""side_estim_km"": 55, ""side_estim_deg"": 0.529, ""elongation_factor"": 2.46}"
+1572197,152,25200,Huasco,AT,,14422,huasco,CL-AT-Huasco,,"{""area_sr"": 0.16526, ""area_km2"": 1797, ""fat_deg_m"": 0.0000096, ""side_estim_km"": 42.4, ""side_estim_deg"": 0.4065, ""elongation_factor"": 2.41}"
+1572123,152,25000,"Tierra Amarilla",AT,,188142,tierra.amarilla,CL-AT-TierraAmarilla,,"{""area_sr"": 1.03243, ""area_km2"": 11268, ""fat_deg_m"": 0.0000096, ""side_estim_km"": 106.1, ""side_estim_deg"": 1.0161, ""elongation_factor"": 2.09}"
+1572107,152,24900,Vallenar,AT,,200978,vallenar,CL-AT-Vallenar,,"{""area_sr"": 0.67136, ""area_km2"": 7278, ""fat_deg_m"": 0.0000096, ""side_estim_km"": 85.3, ""side_estim_deg"": 0.8194, ""elongation_factor"": 2.59}"
