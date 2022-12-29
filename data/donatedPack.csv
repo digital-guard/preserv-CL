@@ -1,3 +1,3 @@
 pack_id,donor_id,pack_count,lst_vers,donor_label,user_resp,accepted_date,scope,about,author,contentReferenceTime,license_is_explicit,license,uri_objType,uri,isAt_UrbiGIS,status,statusUpdateDate
 00101,1,1,001,OSM,claiton,2022-04-18,CL,"Planet OSM, todos os dados ",(self),2022-04-17,yes,ODbL,site,http://download.geofabrik.de/south-america/chile-latest.osm.pbf,no,working-makefile,
-00201,2,1,001,CL-LL-PuertoMontt,luis,2022-05-23,CL-LL-PuertoMontt,"Via full",(self),2022,no,blank,site,https://geoportal-gispmontt.hub.arcgis.com/,no,1,
+00201,2,1,001,PuertoMontt,Carlos,2022-11-14,CL-LL-PuertoMontt,-,(self),-,no,-,-,-,-,-,-
