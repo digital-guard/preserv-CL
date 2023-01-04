@@ -1,0 +1,28 @@
+pack_id: 2.1
+pkversion: 001
+schemaId_input:    ref027a
+schemaId_template: ref027a
+codec:descr_encode: srid=3857
+
+files:
+- file: 7c1cd5cd90518c829dae09cb6b94eaa67979a945e318e469e9d2a1126d037864.zip
+  name: vias
+  p: 1
+
+layers:
+
+
+  via:
+    subtype: full
+    method: shp2sql
+    file: 1
+    sql_view:  |-
+      SELECT gid, comuna, nom_comuna, nom_calle, clase_com, \
+      ( CASE textregexeq(nom_calle,'^[[:digit:]]+(\.[[:digit:]]+)?$'') \
+        WHEN TRUE THEN clase_com || ' ' || nom_calle \
+        ELSE nom_calle \
+      END ) as via_name, \
+      geom FROM $(tabname)
+    orig_filename: CALLES
+
+#outros arquivos EJE_NOMBRE_CALLES.zip
