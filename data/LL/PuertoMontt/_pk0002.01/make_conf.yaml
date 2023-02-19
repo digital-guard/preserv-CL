@@ -24,5 +24,20 @@ layers:
       END ) as via_name, \
       geom FROM $(tabname)
     orig_filename: CALLES
+    standardized_fields:
+     -
+      name: expresão com clase_com e nom_calle
+      standard: via_name
+    other_fields:
+     -
+      name: comuna
+     -
+      name: nom_comuna
+     -
+      name: nom_calle
+     -
+      name: clase_com
+test_evidence: evidencia.png
+
 
 #outros arquivos EJE_NOMBRE_CALLES.zip
