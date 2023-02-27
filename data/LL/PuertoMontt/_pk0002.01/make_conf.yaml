@@ -21,13 +21,13 @@ layers:
       ( CASE textregexeq(nom_calle,'^[[:digit:]]+(\.[[:digit:]]+)?$'') \
         WHEN TRUE THEN clase_com || ' ' || nom_calle \
         ELSE nom_calle \
-      END ) as via_name, \
+      END ) as via, \
       geom FROM $(tabname)
     orig_filename: CALLES
     standardized_fields:
      -
       name: expresão com clase_com e nom_calle
-      standard: via_name
+      standard: via
     other_fields:
      -
       name: comuna

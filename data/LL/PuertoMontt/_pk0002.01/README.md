@@ -30,7 +30,7 @@ Los archivos contienen "capas de datos" temáticas. Los metadatos también descr
 Nombre del archivo: `CALLES`.<br/>*Descarga* e integridad: [7c1cd5cd90518c829dae09cb6b94eaa67979a945e318e469e9d2a1126d037864.zip](http://dl.digital-guard.org/7c1cd5cd90518c829dae09cb6b94eaa67979a945e318e469e9d2a1126d037864.zip)<br/>Descripción: vias<br/>Formato: shp<br/>SRID: 3857
 
 #### Datos relevantes
-* `expresão com clase_com e nom_calle` (via_name)
+* `expresão com clase_com e nom_calle` (via)
 
 #### Otros datos relevantes
 * `comuna`
@@ -67,7 +67,7 @@ psql postgres://postgres@localhost/ingest1 -c "CREATE VIEW vw1_pk15200000201101_
 ( CASE textregexeq(nom_calle,'^[[:digit:]]+(\.[[:digit:]]+)?$'') \
   WHEN TRUE THEN clase_com || ' ' || nom_calle \
   ELSE nom_calle \
-END ) as via_name, \
+END ) as via, \
 geom FROM $(tabname)"
 psql $(pg_uri_db) -c "SELECT ingest.any_load('shp2sql','$(sandbox)/CALLES.shp','via_full','vw1_pk15200000201101_p1_via','15200000201101','7c1cd5cd90518c829dae09cb6b94eaa67979a945e318e469e9d2a1126d037864.zip',array[]::text[],5,1)"
 psql postgres://postgres@localhost/ingest1 -c "DROP VIEW vw1_pk15200000201101_p1_via"
