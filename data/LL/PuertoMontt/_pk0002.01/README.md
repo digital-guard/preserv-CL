@@ -56,10 +56,10 @@ rm -rf /tmp/sandbox/_pk15200000201_001 || true
 mkdir -m 777 -p /tmp/sandbox
 mkdir -m 777 -p /tmp/sandbox/_pk15200000201_001
 mkdir -p /tmp/pg_io
-wget -P /var/www/preserv.addressforall.org/download http://dl.digital-guard.org/7c1cd5cd90518c829dae09cb6b94eaa67979a945e318e469e9d2a1126d037864.zip
-sudo chown postgres:www-data /var/www/preserv.addressforall.org/download/7c1cd5cd90518c829dae09cb6b94eaa67979a945e318e469e9d2a1126d037864.zip && sudo chmod 664 /var/www/preserv.addressforall.org/download/7c1cd5cd90518c829dae09cb6b94eaa67979a945e318e469e9d2a1126d037864.zip
+wget -P /var/www/dl.digital-guard.org http://dl.digital-guard.org/7c1cd5cd90518c829dae09cb6b94eaa67979a945e318e469e9d2a1126d037864.zip
+sudo chown postgres:www-data /var/www/dl.digital-guard.org/7c1cd5cd90518c829dae09cb6b94eaa67979a945e318e469e9d2a1126d037864.zip && sudo chmod 664 /var/www/dl.digital-guard.org/7c1cd5cd90518c829dae09cb6b94eaa67979a945e318e469e9d2a1126d037864.zip
 psql $(pg_uri_db) -c "DROP  TABLE IF EXISTS pk15200000201101_p1_via CASCADE"
-cd /tmp/sandbox/_pk15200000201_001; 7z  x -y /var/www/preserv.addressforall.org/download/7c1cd5cd90518c829dae09cb6b94eaa67979a945e318e469e9d2a1126d037864.zip "*CALLES*" ; chmod -R a+rwx . > /dev/null
+cd /tmp/sandbox/_pk15200000201_001; 7z  x -y /var/www/dl.digital-guard.org/7c1cd5cd90518c829dae09cb6b94eaa67979a945e318e469e9d2a1126d037864.zip "*CALLES*" ; chmod -R a+rwx . > /dev/null
 psql postgres://postgres@localhost/ingest1 -c "SELECT srid, proj4text FROM spatial_ref_sys where srid=3857"
 cd /tmp/sandbox/_pk15200000201_001; shp2pgsql -D   -s 3857 "CALLES.shp" pk15200000201101_p1_via | psql -q postgres://postgres@localhost/ingest1 2> /dev/null
 
