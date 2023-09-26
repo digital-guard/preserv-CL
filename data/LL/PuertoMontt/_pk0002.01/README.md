@@ -11,7 +11,7 @@ Obtido via <i>-</i> em <b>14/11/2022</b> por:
 <br/>&nbsp; Representação institucional: <a rel="external" target="_gitPerson" title="Usuario de" href="https://github.com/ThierryAJean">ThierryAJean</a><br/>
 </td></tr>
 <tr><td>Camadas: <a title="via" href="#-via"><img src="https://raw.githubusercontent.com/digital-guard/preserv/main/docs/assets/layerIcon-via.png" alt="via" width="20"/></a> </td></tr>
-<tr><td>Datos publicados en <a href="https://git.digital-guard.org/preservCutGeo-CL2021/tree/main/data/LL/PuertoMontt/_pk0002.01">preservCutGeo-CO2021</a><br/><a href="#reproducibilidad">Reproducible</a></td></tr>
+<tr><td>Datos publicados en <a href="https://git.digital-guard.org/preservCutGeo-CL2021/tree/main/data/LL/PuertoMontt/_pk0002.01">preservCutGeo-CL2021</a><br/><a href="#reproducibilidad">Reproducible</a></td></tr>
 <tr><td>Visualización: <a title="via" href="https://viz.addressforall.org/CL-LL-PuertoMontt/_pk0002.01/via"><img src="https://raw.githubusercontent.com/digital-guard/preserv/main/docs/assets/layerIcon-via.png" alt="via" width="20"/></a> </td></tr>
 </table>
 </aside>
@@ -41,6 +41,9 @@ Nombre del archivo: `CALLES`<br/>*Descarga* e integridad: [7c1cd5cd90518c829dae0
 
 #### Filtrado de resultados y su publicación
 3259526 bytes (3.11 <abbr title="mebibyte">MiB</abbr>)<br/>18510 segmentos con 2595.6 <abbr title="quilômetros">km</abbr><br/>densidad media: 1.94 segmentos/km²<br/>GeoJSONs publicados em [https://git.digital-guard.org/preservCutGeo-CL2021/tree/main/data/LL/PuertoMontt/_pk0002.01/via](https://git.digital-guard.org/preservCutGeo-CL2021/tree/main/data/LL/PuertoMontt/_pk0002.01/via)
+
+#### Visualización
+[https://viz.addressforall.org/CL-LL-PuertoMontt/_pk0002.01/via](https://viz.addressforall.org/CL-LL-PuertoMontt/_pk0002.01/via)
 
 # Evidencia de prueba
 <img src="evidencia.png" width="400"/>
