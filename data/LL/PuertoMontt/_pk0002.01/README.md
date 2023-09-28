@@ -1,6 +1,6 @@
 <aside>
 <table align="right" style="padding: 1em">
-<tr><td>Paquete <a target="_git" title="Enlace canónico a git para este paquete." href="https://git.digital-guard.org/preserv-CL/blob/main/data/LL/PuertoMontt/_pk0002.01"><big><b>pk0002.01</b></big></a> de <small><a target="_afacodes" title="Jurisdicción" href="https://afa.codes/CL-LL-PuertoMontt">CL-LL-PuertoMontt</a></small>
+<tr><td>Paquete <big><b>pk0002.01</b></big> de <small><a target="_afacodes" title="Jurisdicción" href="https://afa.codes/CL-LL-PuertoMontt">CL-LL-PuertoMontt</a></small>
 </td></tr>
 <tr><td>
 Donante: <a rel="external" target="_doador" href="http://www.puertomonttchile.cl/">Puerto Montt</a>
@@ -28,7 +28,7 @@ Los archivos contienen "capas de datos" temáticas. Los metadatos también descr
 
 ## <img src="https://raw.githubusercontent.com/digital-guard/preserv/main/docs/assets/layerIcon-via.png" alt="via" width="20"/> via
 
-Nombre del archivo: `CALLES`<br/>*Descarga* e integridad: [7c1cd5cd90518c829dae09cb6b94eaa67979a945e318e469e9d2a1126d037864.zip](http://dl.digital-guard.org/7c1cd5cd90518c829dae09cb6b94eaa67979a945e318e469e9d2a1126d037864.zip)<br/>Descripción: vias<br/>Tamaño del archivo: 2533928 bytes (2.42 <abbr title="mebibyte">MiB</abbr>)<br/>Formato: shp<br/>SRID: 3857
+Nombre del archivo: `CALLES`<br/>*Descarga* e integridad: [7c1cd5cd90518c829dae09cb6b94eaa67979a945e318e469e9d2a1126d037864.zip](https://dl.digital-guard.org/7c1cd5cd90518c829dae09cb6b94eaa67979a945e318e469e9d2a1126d037864.zip)<br/>Descripción: vias<br/>Tamaño del archivo: 2533928 bytes (2.42 <abbr title="mebibyte">MiB</abbr>)<br/>Formato: shp<br/>SRID: 3857
 
 #### Datos relevantes
 * `expresão com clase_com e nom_calle` (via)
