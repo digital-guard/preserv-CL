@@ -3,4 +3,4 @@ local_id,scope_label,vat_id,legalName,wikidata_id,url
 2,CL-LL-PuertoMontt,rut:69220100-0,Puerto Montt,36214,http://www.puertomonttchile.cl/
 3,CL,rut:61402000-8,Ministerio de Bienes Nacionales,6017192,https://www.bienesnacionales.cl/
 4,CL,rut:60703000-6,Instituto Nacional de Estatísticas do Chile,3288549,https://www.ine.gob.cl/
-5,CL,rut:---,Infraestructura de Datos Geoespaciales de Chile,126195094,https://www.ide.cl/
+5,CL,rut:00000000-0,Infraestructura de Datos Geoespaciales de Chile,126195094,https://www.ide.cl/
