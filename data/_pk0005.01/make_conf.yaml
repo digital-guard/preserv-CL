@@ -1,0 +1,40 @@
+pack_id: 5.1
+pkversion: 001
+schemaId_input: ref027a  
+schemaId_template: ref027a  
+codec:descr_encode: srid=3857
+
+files:
+- file: 224f0fa6e3d4b7a261e66cc5399c52276959e3aba4d1e643c1bb86f9501d2988.zip
+  name: Maestro_de_calles_2018-shp.zip
+  p: 1
+
+layers:
+  via:
+    subtype: full
+    method: shp2sql
+    file: 1
+    sql_select: ['gid', 'COMUNA', 'NOMBRE_MAE as via', 'INI_IZQ', 'INI_DER', 'TER_IZQ','TER_DER', 'geom']
+    orig_filename: MAESTRO_EJES
+    standardized_fields:
+     -
+      name: NOMBRE_MAE
+      standard: via
+      comment: nombre de la calle completo, en mayúsculas.
+    other_fields:
+     -
+      name: COMUNA
+      comment: nombre de la comuna, en mayúsculas.
+     -
+      name: INI_IZQ
+      comment: número de edificio inicial, izquierda.
+     -
+      name: INI_DER
+      comment: número de edificio inicial, derecha.
+     -
+      name: TER_IZQ
+      comment: número de edificio final, izquierda.
+     -
+      name: TER_DER
+      comment: número de edificio final, derecha.
+test_evidence: CL-IDE-test_2024-02-07.png
