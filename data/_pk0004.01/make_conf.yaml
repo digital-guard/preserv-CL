@@ -1,0 +1,34 @@
+pack_id: 4.1
+pkversion: 001
+schemaId_input:    ref027a
+schemaId_template: ref027a
+codec:descr_encode: srid=4674
+
+files:
+- file: da15a5f04996f120bf719c6bf04777ae7212cdcd0d16beecb5770d890bf8d2a8.rar
+  name: Quadras
+  p: 1
+
+layers:
+
+  block:
+    subtype: none
+    method: shp2sql
+    file: 1
+    orig_filename: r
+    orig_subfilename: MANZANA
+    codec: SHP.ZIP
+    sql_view: SELECT gid, REGION, NOM_REGION, PROVINCIA, NOM_PROVIN, COMUNA, NOM_COMUNA, geom FROM $(tabname)
+    other_fields:
+     -
+      name: REGION
+     -
+      name: NOM_REGION
+     -
+      name: PROVINCIA
+     -
+      name: NOM_PROVIN
+     -
+      name: COMUNA
+     -
+      name: NOM_COMUNA
