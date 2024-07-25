@@ -1,0 +1,2 @@
+e5a82ceadbc0272e23bc355213b2a4890f980fe587a03508368c81624ced0d2f *MGE_Nacional.csv.zip
+cda568ebe8a9ef504cbeea8d408ea38f71a640c3a5e841fd59b7e923b02902ee  MGE_Nacional.zip

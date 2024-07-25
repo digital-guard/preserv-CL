@@ -1,0 +1,21 @@
+pack_id: 4.2
+pkversion: 001
+schemaId_input: ref027a
+schemaId_template: ref027a 
+codec:descr_encode: srid=4674
+
+files:
+- file: cda568ebe8a9ef504cbeea8d408ea38f71a640c3a5e841fd59b7e923b02902ee.zip
+  name: MGE_Nacional.zip
+  p: 1
+
+layers:
+
+  geoaddress:
+    subtype: full
+    method: gdb2sql
+    file: 1
+    sql_view: SELECT row_number() OVER () as gid, REGION, NOMBRE_COMUNA, CLASE_URBANA, NOMBRE_NORMALIZADO as via, ALIAS, NUMEXT as hnum, geom FROM $(tabname)
+    orig_filename: MGE_Nacional.gdb
+    orig_tabname: MGE_NACIONAL_URB
+    partition_by: REGION
