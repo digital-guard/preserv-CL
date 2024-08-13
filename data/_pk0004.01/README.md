@@ -44,6 +44,9 @@ Nombre del archivo: `r`<br/>*Descarga* e integridad: [da15a5f04996f120bf719c6bf0
 #### Visualización
 [https://viz.addressforall.org/CL/_pk0004.01/block](https://viz.addressforall.org/CL/_pk0004.01/block)
 
+# Evidencia de prueba
+<img src="qgis.png" width="400"/>
+
 </section>
 <section>
 
