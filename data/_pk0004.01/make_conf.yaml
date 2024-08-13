@@ -36,3 +36,5 @@ layers:
       name: COMUNA
      -
       name: NOM_COMUNA
+
+test_evidence: qgis.png
