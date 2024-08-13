@@ -5,7 +5,7 @@
 <tr><td>
 Donante: <a rel="external" target="_doador" href="https://www.ine.gob.cl/">Instituto Nacional de Estatísticas do Chile</a>
 <br/>&nbsp; <small>RUT 60703000-6</small> • Wikidata <a rel="external" target="_doador" title="Enlace del descriptor Wikidata del donante" href="https://www.wikidata.org/wiki/Q3288549">Q3288549</a></small><br/>
-Licencia <a rel="external" target="_doador" href="https://creativecommons.org/publicdomain/zero/1.0/"><b>CC0-1.0</b></a> (cc0 <a title="SHA256 0f53caf69606569e29f9160a65910d1755d45992969a3f2be4807a0ce4391b99.pdf" href="https://dl.digital-guard.org/0f53caf69606569e29f9160a65910d1755d45992969a3f2be4807a0ce4391b99.pdf"><code>0f53caf...pdf</code></a>)<br/>
+Licencia <a rel="external" target="_doador" href="https://creativecommons.org/publicdomain/zero/1.0/"><b>Implied CC-BY</b></a> (by <a title="SHA256 0f53caf69606569e29f9160a65910d1755d45992969a3f2be4807a0ce4391b99.pdf" href="https://dl.digital-guard.org/0f53caf69606569e29f9160a65910d1755d45992969a3f2be4807a0ce4391b99.pdf"><code>0f53caf...pdf</code></a>)<br/>
 Obtido via <i>-</i> em <b>07/02/2024</b> por:
 <br/>&nbsp; Avaliação técnica: <a rel="external" target="_gitPerson" title="Usuario de Git" href="https://github.com/crebollobr">crebollobr</a>
 <br/>&nbsp; Representação institucional: <a rel="external" target="_gitPerson" title="Usuario de" href="https://github.com/ThierryAJean">ThierryAJean</a><br/>
