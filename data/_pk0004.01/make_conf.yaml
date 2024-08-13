@@ -9,6 +9,10 @@ files:
   name: Quadras
   p: 1
 
+license_evidences:
+  definition: [CC0-1.0, cc0, 'https://creativecommons.org/publicdomain/zero/1.0/']
+  file: 0f53caf69606569e29f9160a65910d1755d45992969a3f2be4807a0ce4391b99.pdf
+
 layers:
 
   block:
