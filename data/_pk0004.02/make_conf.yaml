@@ -1,12 +1,12 @@
 pack_id: 4.2
-pkversion: 001
+pkversion: 002
 schemaId_input: ref027a
 schemaId_template: ref027a 
 codec:descr_encode: srid=4674
 
 files:
-- file: cda568ebe8a9ef504cbeea8d408ea38f71a640c3a5e841fd59b7e923b02902ee.zip
-  name: MGE_Nacional.zip
+- file: f31e7bbdb49c8b2c6735fe3e8aa34c120fd587f83272747d08590e3707ce7e96.zip
+  name: MGE_Dic2023_TRANSPARENCIA.zip
   p: 1
 
 license_evidences:
@@ -20,7 +20,7 @@ layers:
     method: gdb2sql
     file: 1
     sql_view: SELECT row_number() OVER () as gid, REGION, NOMBRE_COMUNA, CLASE_URBANA, NOMBRE_NORMALIZADO as via, ALIAS, NUMEXT as hnum, geom FROM $(tabname)
-    orig_filename: MGE_Nacional.gdb
-    orig_tabname: MGE_NACIONAL_URB
+    orig_filename: MGE_Dic2023_TRANSPARENCIA.gdb
+    orig_tabname: MGE_Dic2023_TRANSPARENCIA
     partition_by: REGION
 test_evidence: qgis.png
