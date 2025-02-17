@@ -4,3 +4,4 @@ pack_id,donor_id,pack_count,lst_vers,user_resp,accepted_date,scope,about,author,
 00401,4,1,001,carlos,2024-02-07,CL,-,(self),2024-02-07,no,-,-,-,-,-,-
 00402,4,2,001,carlos,2024-02-07,CL,-,(self),2024-02-07,no,-,-,-,-,-,-
 00501,5,1,001,carlos,2024-02-07,CL,-,(self),2024-02-07,no,-,-,-,-,-,-
+00402,4,2,002,carlos,2025-02-17,CL,-,(self),2025-02-17,no,-,-,-,-,-,-
