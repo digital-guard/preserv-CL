@@ -6,13 +6,12 @@
 Donante: <a rel="external" target="_doador" href="https://www.ine.gob.cl/">Instituto Nacional de Estatísticas do Chile</a>
 <br/>&nbsp; <small>RUT 60703000-6</small> • Wikidata <a rel="external" target="_doador" title="Enlace del descriptor Wikidata del donante" href="https://www.wikidata.org/wiki/Q3288549">Q3288549</a></small><br/>
 Licencia <a rel="external" target="_doador" href="https://dl.digital-guard.org/0f53caf69606569e29f9160a65910d1755d45992969a3f2be4807a0ce4391b99.pdf"><b>Implied CC-BY</b></a> (by)<br/>
-Obtido via <i>-</i> em <b>07/02/2024</b> por:
+Obtido via <i>-</i> em <b>17/02/2025</b> por:
 <br/>&nbsp; Avaliação técnica: <a rel="external" target="_gitPerson" title="Usuario de Git" href="https://github.com/crebollobr">crebollobr</a>
 <br/>&nbsp; Representação institucional: <a rel="external" target="_gitPerson" title="Usuario de" href="https://github.com/ThierryAJean">ThierryAJean</a><br/>
 </td></tr>
 <tr><td>Camadas: <a title="geoaddress" href="#-geoaddress"><img src="https://raw.githubusercontent.com/digital-guard/preserv/main/docs/assets/layerIcon-geoaddress.png" alt="geoaddress" width="20"/></a> </td></tr>
-<tr><td>Datos publicados en <a href="https://git.digital-guard.org/preservCutGeo-CL2021/tree/main/data/_pk0004.02">preservCutGeo-CL2021</a><br/><a href="#reproducibilidad">Reproducible</a></td></tr>
-<tr><td>Visualización: <a title="geoaddress" href="https://viz.addressforall.org/CL/_pk0004.02/geoaddress"><img src="https://raw.githubusercontent.com/digital-guard/preserv/main/docs/assets/layerIcon-geoaddress.png" alt="geoaddress" width="20"/></a> <a title="geoaddress" href="https://viz.addressforall.org/CL/_pk0004.02/geoaddress"><img src="https://raw.githubusercontent.com/digital-guard/preserv/main/docs/assets/layerIcon-geoaddress.png" alt="geoaddress" width="20"/></a> </td></tr>
+
 </table>
 </aside>
 
@@ -28,22 +27,17 @@ Los archivos contienen "capas de datos" temáticas. Los metadatos también descr
 
 ## <img src="https://raw.githubusercontent.com/digital-guard/preserv/main/docs/assets/layerIcon-geoaddress.png" alt="geoaddress" width="20"/> geoaddress
 
-Nombre del archivo: `MGE_Nacional.gdb`<br/>*Descarga* e integridad: [cda568ebe8a9ef504cbeea8d408ea38f71a640c3a5e841fd59b7e923b02902ee.zip](https://dl.digital-guard.org/cda568ebe8a9ef504cbeea8d408ea38f71a640c3a5e841fd59b7e923b02902ee.zip)<br/>Descripción: MGE_Nacional.zip<br/>Formato: gdb<br/>SRID: 4674
+Nombre del archivo: `MGE_Dic2023_TRANSPARENCIA.gdb`<br/>*Descarga* e integridad: [f31e7bbdb49c8b2c6735fe3e8aa34c120fd587f83272747d08590e3707ce7e96.zip](https://dl.digital-guard.org/f31e7bbdb49c8b2c6735fe3e8aa34c120fd587f83272747d08590e3707ce7e96.zip)<br/>Descripción: MGE_Dic2023_TRANSPARENCIA.zip<br/>Formato: gdb<br/>SRID: 4674
 
-#### Filtrado de resultados y su publicación
-214734454 bytes (204.79 <abbr title="mebibyte">MiB</abbr>)<br/>3992998 pontos<br/>densidad media: 2274.48 pontos/km²<br/>GeoJSONs publicados em [https://git.digital-guard.org/preservCutGeo-CL2021/tree/main/data/_pk0004.02/geoaddress](https://git.digital-guard.org/preservCutGeo-CL2021/tree/main/data/_pk0004.02/geoaddress)
+#### Datos relevantes
+* `NOMBRE` (via)
 
-#### Visualización
-[https://viz.addressforall.org/CL/_pk0004.02/geoaddress](https://viz.addressforall.org/CL/_pk0004.02/geoaddress)
-## <img src="https://raw.githubusercontent.com/digital-guard/preserv/main/docs/assets/layerIcon-geoaddress.png" alt="geoaddress" width="20"/> geoaddress
+* `NUMEXT` (hnum)
 
-Nombre del archivo: `MGE_Nacional.gdb`<br/>*Descarga* e integridad: [cda568ebe8a9ef504cbeea8d408ea38f71a640c3a5e841fd59b7e923b02902ee.zip](https://dl.digital-guard.org/cda568ebe8a9ef504cbeea8d408ea38f71a640c3a5e841fd59b7e923b02902ee.zip)<br/>Descripción: MGE_Nacional.zip<br/>Formato: gdb<br/>SRID: 4674
-
-#### Filtrado de resultados y su publicación
-214734455 bytes (204.79 <abbr title="mebibyte">MiB</abbr>)<br/>3992998 pontos<br/>densidad media: 2274.48 pontos/km²<br/>GeoJSONs publicados em [https://git.digital-guard.org/preservCutGeo-CL2021/tree/main/data/_pk0004.02/geoaddress](https://git.digital-guard.org/preservCutGeo-CL2021/tree/main/data/_pk0004.02/geoaddress)
-
-#### Visualización
-[https://viz.addressforall.org/CL/_pk0004.02/geoaddress](https://viz.addressforall.org/CL/_pk0004.02/geoaddress)
+#### Otros datos relevantes
+* `REGION`
+* `NOMBRE_COMUNA`
+* `CLASE_URBANA`
 
 # Evidencia de prueba
 <img src="qgis.png" width="400"/>

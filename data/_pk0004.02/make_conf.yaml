@@ -19,8 +19,22 @@ layers:
     subtype: full
     method: gdb2sql
     file: 1
-    sql_view: SELECT row_number() OVER () as gid, REGION, NOMBRE_COMUNA, CLASE_URBANA, NOMBRE_NORMALIZADO as via, ALIAS, NUMEXT as hnum, geom FROM $(tabname)
+    sql_view: SELECT row_number() OVER () as gid, REGION, NOMBRE_COMUNA, CLASE_URBANA, NOMBRE as via, ALIAS, NUMEXT as hnum, geom FROM $(tabname)
     orig_filename: MGE_Dic2023_TRANSPARENCIA.gdb
     orig_tabname: MGE_Dic2023_TRANSPARENCIA
     partition_by: REGION
+    standardized_fields:
+     -
+      name: NOMBRE
+      standard: via
+     -
+      name: NUMEXT
+      standard: hnum
+    other_fields:
+     -
+      name: REGION
+     -
+      name: NOMBRE_COMUNA
+     -
+      name: CLASE_URBANA
 test_evidence: qgis.png
