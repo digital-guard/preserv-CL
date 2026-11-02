@@ -19,7 +19,7 @@ layers:
     file: 1
     sql_view:  |-
       SELECT gid, comuna, nom_comuna, nom_calle, clase_com, \
-      ( CASE textregexeq(nom_calle,'^[[:digit:]]+(\.[[:digit:]]+)?$') \
+      ( CASE textregexeq(nom_calle,'^[[:digit:]]+(\.[[:digit:]]+)?$'') \
         WHEN TRUE THEN clase_com || ' ' || nom_calle \
         ELSE nom_calle \
       END ) as via, \
